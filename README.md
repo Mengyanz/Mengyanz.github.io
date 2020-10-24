@@ -1,15 +1,14 @@
-<img align='right' src="photos/mengyan.jpg"  width="200"/>
-**Mengyan Zhang**  
-[Research School of Computer Science, Australian National University](https://cs.anu.edu.au/)  
-[Data61,CSIRO](https://data61.csiro.au/en/Our-Research/Focus-Areas/AI-and-Machine-Learning)  
+<img align='right' src="photos/mengyan.jpg"  width="200"/> 
+[Research School of Computer Science, Australian National University](https://cs.anu.edu.au/)      
+[Data61,CSIRO](https://data61.csiro.au/en/Our-Research/Focus-Areas/AI-and-Machine-Learning)      
 Email: mengyan.zhang@anu.edu.au 
 
-I am currently a PhD candidate at the Australian National Univerisity and Data61, CSIRO, under supervision of A/Prof. [Cheng Soon Ong](http://www.ong-home.my/index.html), Prof. [Lexing Xie](http://users.cecs.anu.edu.au/~xlx/) and Prof. [Eduardo Eyras](https://jcsmr.anu.edu.au/people/academics/professor-eduardo-eyras). Prior to that, I obtained my bachelor degree with first-class honour at the Australian National University bachelor degree at Shandong University in 2018. 
+I am currently a PhD candidate at the Australian National Univerisity and Data61, CSIRO, under supervision of A/Prof. [Cheng Soon Ong](http://www.ong-home.my/index.html), Prof. [Lexing Xie](http://users.cecs.anu.edu.au/~xlx/) and Prof. [Eduardo Eyras](https://jcsmr.anu.edu.au/people/academics/professor-eduardo-eyras). Prior to that, I obtained my bachelor degree with first-class honour at the Australian National University and the bachelor degree at Shandong University in 2018. 
 
-My research interests are online experimental design in machine learning, including multi-armed bandits and active learning. I work on both theoretical and practical view of experimental design with two goals:
+My research interests are online experimental design in machine learning, including multi-armed bandits and active learning. I work on both theoretical and practical views of experimental design with two goals:
 (I) designing robust algorithms to reflect the preference of agents, for example, risk-aversion. 
 Understanding the concentration of measures and adaptive strategies involved. 
-(II) I am interested in using machine learning algorithms for synthetic biology experimental design. 
+(II) Using machine learning algorithms for synthetic biology experimental design. 
 Designing the pipeline and recommendation strategies from a practical point of view.
 
 ## Research & Publications/Preprint

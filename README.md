@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+<img align='right' src="photos/mengyan.jpg"  width="200"/>
+**Mengyan Zhang**  
+[Research School of Computer Science, Australian National University](https://cs.anu.edu.au/)  
+[Data61,CSIRO](https://data61.csiro.au/en/Our-Research/Focus-Areas/AI-and-Machine-Learning)  
+Email: mengyan.zhang@anu.edu.au 
 
-You can use the [editor on GitHub](https://github.com/Mengyanz/Mengyanz.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am currently a PhD candidate at the Australian National Univerisity and Data61, CSIRO, under supervision of A/Prof. [Cheng Soon Ong](http://www.ong-home.my/index.html), Prof. [Lexing Xie](http://users.cecs.anu.edu.au/~xlx/) and Prof. [Eduardo Eyras](https://jcsmr.anu.edu.au/people/academics/professor-eduardo-eyras). Prior to that, I obtained my bachelor degree with first class honour at the Australian National University bachelor degree at Shandong University in 2018. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Research Interests
 
-### Markdown
+## Events & News
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Current Projects
 
-```markdown
-Syntax highlighted code block
+## Publications/Preprint
 
-# Header 1
-## Header 2
-### Header 3
+## Teaching
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Mengyanz/Mengyanz.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Past Projects

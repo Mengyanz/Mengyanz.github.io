@@ -17,7 +17,7 @@ Designing the pipeline and recommendation strategies from a practical point of v
 - (Current) Quantile Bandits for Best Arms Identification with Concentration Inequalities. [[arXiv](https://arxiv.org/abs/2010.11568)| [code](files/quantile_bandits.zip)]
 - (Current) Optimized Experimental Design for Translation Initiation using Machine Learning. [[C3DIS 2020 Presentation](http://www.c3dis.com/3846)]
 - (Past) Active Learning on Knowledge Graph [[software](https://github.com/chengsoonong/acton)]
-- (Past) Honours project: Classification of historical death and occupation coding [[thesis]()]
+- (Past) Honours project: Classification of historical death and occupation coding [[thesis](files/Classification_of_historical_death_and_occupation_coding.pdf)]
   
 ## Teaching
 - [Statistical Machine Learning](https://programsandcourses.anu.edu.au/2021/course/COMP8600) (S1 2019, S1 2020)

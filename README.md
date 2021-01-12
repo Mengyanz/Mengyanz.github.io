@@ -23,6 +23,8 @@ Designing the pipeline and recommendation strategies from a practical point of v
 - [Introduction to Machine Learning](https://programsandcourses.anu.edu.au/2021/course/COMP6670) (S2 2020)
 
 ## Events & News
+- **Update Jan. 2020** I am collecting good resources for machine learning study, see [here](files/good_resources.md)
+- **Dec. 2020**: attend [NeurPIS 2020](https://neurips.cc/virtual/2020/protected/cal_main.html) virtually!
 - **Jul. 2020**: attend [ICML 2020](https://icml.cc/virtual/2020) virtually!
 - **Apr. 2020**: I am accepted to [MLSS 2020](http://mlss.tuebingen.mpg.de/2020/index.html) at the Max Planck Institute for Intelligent Systems, Tübingen, Germany. Lecture videos and slides can be found [here](http://mlss.tuebingen.mpg.de/2020/schedule.html).
 - **Mar. 2020**: I present our biological sequences design on [C3DIS 2020](http://www.c3dis.com/). See descriptions [here](http://www.c3dis.com/3846).

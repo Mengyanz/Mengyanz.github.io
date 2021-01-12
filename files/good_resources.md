@@ -1,6 +1,6 @@
 # Good Resources 
 
-Collections of resources that I wish I could have known them earlier...  
+Collections of resources (for machine learning, math, statistics) that I wish I could have known them earlier...  
 not a comprehensive list, please let me know (email or Twitter) if you want to add any!
 
 ## Courses 
@@ -27,9 +27,14 @@ not a comprehensive list, please let me know (email or Twitter) if you want to a
 - [Mathematics for Machine Learning](https://mml-book.github.io/): provides the necessary mathematical skills to read those other machine learning books. Highly recommended for beginners!
 - [Bandits Algorithms]()
 - [Introduction to Reinforcement Learning]()
+- [All of statistics]()
+
 
 ## Websites/Blogs
 
 - [Simons Institute for Theory of Computing](https://simons.berkeley.edu/): good online [programs/events](https://simons.berkeley.edu/programs) upcoming!
+- [I'm a bandits-Sébastien Bubeck](https://blogs.princeton.edu/imabandit/): Random topics in optimization, probability, and statistics.
 
+## Mentoring
 
+- [mentor.net](https://mementor.net/): I went several mentoring sessions during NeurPIS2020, they were quite good. There are also some from time to time. 

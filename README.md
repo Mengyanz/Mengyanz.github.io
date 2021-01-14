@@ -14,12 +14,13 @@ Designing the pipeline and recommendation strategies from a practical point of v
 
 ## Research & Publications/Preprint
 - Optimized Experimental Design for Translation Initiation using Machine Learning.   
-  **Zhang, M.**, Holowko M. B., Hayman Zumpe H., Ong, C. S. (2020). under preparation.
+  **Zhang, M.**, Holowko M. B., Hayman Zumpe H., Ong, C. S. (2020). under preparation.  
   [[C3DIS 2020 Presentation](http://www.c3dis.com/3846)]
 - Quantile Bandits for Best Arms Identification with Concentration Inequalities.   
   **Zhang, M.**, Ong, C. S. (2020). under review. [[arXiv:2010.11568.](https://arxiv.org/abs/2010.11568)| [code](files/quantile_bandits.zip)]
 - Active Learning on Knowledge Graph [[software](https://github.com/chengsoonong/acton)]
-- Honours project: Classification of historical death and occupation coding (supervisors: [Peter Christen](https://users.cecs.anu.edu.au/~Peter.Christen/), [Timothy Graham](https://scholar.google.com.au/citations?user=9GG-wWEAAAAJ&hl=en)) [[thesis](files/Classification_of_historical_death_and_occupation_coding.pdf)]
+- Honours project: Classification of historical death and occupation coding  [[thesis](files/Classification_of_historical_death_and_occupation_coding.pdf)]  
+  (supervisors: [Peter Christen](https://users.cecs.anu.edu.au/~Peter.Christen/), [Timothy Graham](https://scholar.google.com.au/citations?user=9GG-wWEAAAAJ&hl=en))
   
 ## Teaching
 - [Statistical Machine Learning](https://programsandcourses.anu.edu.au/2021/course/COMP8600) (S1 2019, S1 2020)

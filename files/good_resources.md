@@ -16,9 +16,31 @@ not a comprehensive list, please let me know (email or Twitter) if you want to a
 - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw): Excellent short tutorials with vivid illustration and clear explanation. Series I found interesting and useful: [COVID19](https://www.youtube.com/playlist?list=PLZHQObOWTQDOcxqQ36Vow3TdTRjkdSvT-), [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab), [Essence of calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 - [The Bright Side of Mathematics](https://www.youtube.com/channel/UCdwo4k1RQHTcq_-WS7Cazqg): very clear and intuitive! I learn [Measure Theory](https://www.youtube.com/playlist?list=PLBh2i93oe2qvMVqAzsX1Kuv6-4fjazZ8j) there!
 
+#### Gaussian Process
+- [Deep Gaussian Process](https://www.youtube.com/watch?v=NHTGY8VCinY&feature=share): Neil D. Lawrence - NIPS Tutorial 2017
+
+#### Knowledge Graph 
+- [Stanford CS520 Knowledge Graphs Seminar (Spring 2020)](https://www.youtube.com/playlist?list=PLDhh0lALedc7LC_5wpi5gDnPRnu1GSyRG): 
+
+#### Fourier Transform
+
+- (Chinese material) [李永乐老师: 傅里叶变换](https://www.youtube.com/watch?v=0LuyxzqI3Hk)
+- 3Blue1Brown: 
+    - [what is Fourier Transform](https://www.youtube.com/watch?v=spUNpyF58BY)
+    - [Fourier Series](https://www.youtube.com/watch?v=r6sGWTCMz2k)
+    - [Euler's formula with introductory group theory](https://www.youtube.com/watch?v=mvmuCPvRoWQ)
+- Reducible: [FFT](https://www.youtube.com/watch?v=h7apO7q16V0&t=396s)
+
+
+#### NLP Transformer related 
+- [brief intro in 10min](https://youtu.be/TQQlZhbC5ps): by CodeEmporium
+- [The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html)
+
+
 ## Summer Schools
 
 - [Machine Learning Summer School](http://mlss.cc/): I attended [MLSS2020](http://mlss.tuebingen.mpg.de/2020/) and learnt a lots from the amazing [speakers](http://mlss.tuebingen.mpg.de/2020/speakers.html) and also participators. Good places to make friends and discuss your research ideas! 
+- [Gaussian Process Summer School](http://gpss.cc/)
 
 ## Books
 

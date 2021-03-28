@@ -9,7 +9,7 @@ not a comprehensive list, please let me know (email or Twitter) if you want to a
 - [Stanford cs231n: CNN](): introduction for deep learning (CNN, RNN, CV oriented)
 - [Deep Learning NYU - Yann LeCun & Alfredo Canziani](https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq): course run in 2020,  website/notes [here](https://atcold.github.io/pytorch-Deep-Learning/) 
 - [Statistics from Professor Leonard](https://www.youtube.com/playlist?list=PL5102DFDC6790F3D0): the courses are quite easy to follow and interesting! Learn some basic statistics concepts there.
-
+- [Bioinformatics by Pavel Pevzner](https://www.coursera.org/specializations/bioinformatics)
 
 ## Tutorials
 
@@ -20,7 +20,7 @@ not a comprehensive list, please let me know (email or Twitter) if you want to a
 - [Deep Gaussian Process](https://www.youtube.com/watch?v=NHTGY8VCinY&feature=share): Neil D. Lawrence - NIPS Tutorial 2017
 
 #### Knowledge Graph 
-- [Stanford CS520 Knowledge Graphs Seminar (Spring 2020)](https://www.youtube.com/playlist?list=PLDhh0lALedc7LC_5wpi5gDnPRnu1GSyRG): 
+- [Stanford CS520 Knowledge Graphs Seminar (Spring 2020)](https://www.youtube.com/playlist?list=PLDhh0lALedc7LC_5wpi5gDnPRnu1GSyRG) 
 
 #### Fourier Transform
 
@@ -32,9 +32,11 @@ not a comprehensive list, please let me know (email or Twitter) if you want to a
 - Reducible: [FFT](https://www.youtube.com/watch?v=h7apO7q16V0&t=396s)
 
 
-#### NLP Transformer related 
-- [brief intro in 10min](https://youtu.be/TQQlZhbC5ps): by CodeEmporium
-- [The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html)
+#### Deep Learning related 
+- [brief intro to Transformer in 10min](https://youtu.be/TQQlZhbC5ps): by CodeEmporium
+<!-- - [The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html) -->
+- [NLP_ability git repo (in Chinese)](https://github.com/DA-southampton/NLP_ability): a comprehensive summary of NLP-related stuff, suitable for beginners. I know this from a good explanation to Transformer [video](https://www.bilibili.com/video/BV1Di4y1c7Zm). 
+- [A tutorial for PyTorch by Aladdin Persson](https://www.youtube.com/playlist?list=PLhhyoLH6IjfxeoooqP9rhU3HJIAVAJ3Vz): very detailed and easy-to-follow. Highly recommended!
 
 
 ## Summer Schools
@@ -47,8 +49,10 @@ not a comprehensive list, please let me know (email or Twitter) if you want to a
 - [Pattern Recognition and Machine Learning](), [Foundations of machine learning](): textbooks of machine learning
 - [Gaussian Process for Machine Learning]()
 - [Mathematics for Machine Learning](https://mml-book.github.io/): provides the necessary mathematical skills to read those other machine learning books. Highly recommended for beginners!
-- [Bandits Algorithms]()
-- [Introduction to Reinforcement Learning]()
+- [Algebra, Topology, Differential Calculus, and Optimization Theory
+For Computer Science and Machine Learning](https://www.cis.upenn.edu/~jean/math-deep.pdf): A very comprehensive and well-written book from Jean Gallier and Jocelyn Quaintance. 
+- [Bandits Algorithms by Tor Lattimore and Csaba Szepesvari](https://tor-lattimore.com/downloads/book/book.pdf)
+- [Introduction to Reinforcement Learning](http://incompleteideas.net/book/bookdraft2017nov5.pdf)
 - [All of statistics]()
 
 
@@ -60,3 +64,8 @@ not a comprehensive list, please let me know (email or Twitter) if you want to a
 ## Mentoring
 
 - [mentor.net](https://mementor.net/): I went several mentoring sessions during NeurPIS2020, they were quite good. There are also some from time to time. 
+
+## My favorite TED talks 
+- [Uri Alon: Why truly innovative science demands a leap into the unknown](https://www.youtube.com/watch?v=F1U26PLiXjM&list=PLK-PE2jEItbewqeYePUZQ4hbWiwEmSLzg&index=5): Being supportive and say: Yes! And?
+- [The first 20 hours -- How to learn anything](https://www.youtube.com/watch?v=5MgBikgcWnY&list=PLK-PE2jEItbewqeYePUZQ4hbWiwEmSLzg&index=6): You do not need 10-thousand hours to LEARN something, but only 20 hours (well, you do need more time to become an expert). 
+- [How language shapes the way we think](https://www.youtube.com/watch?v=RKK7wGAYP6k&list=PLK-PE2jEItbewqeYePUZQ4hbWiwEmSLzg&index=8): "To have a second language is to have a second soul" -Charlemagne.

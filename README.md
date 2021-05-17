@@ -15,7 +15,7 @@ Designing the pipeline and recommendation strategies from a practical point of v
 ## Research & Publications/Preprint
 
 - Quantile Bandits for Best Arms Identification.
-  **Zhang, M.**, Ong, C. S. (2020). International Conference on Machine Learning. {[arXiv:2010.11568.](https://arxiv.org/abs/2010.11568); [code](files/quantile_bandits.zip)}
+  **Zhang, M.**, Ong, C. S. (2021). International Conference on Machine Learning. {[arXiv:2010.11568.](https://arxiv.org/abs/2010.11568); [code](files/quantile_bandits.zip)}
 
 - Optimized Experimental Design for Translation Initiation using Machine Learning.   
   **Zhang, M.**, Holowko M. B., Hayman Zumpe H., Ong, C. S. (2020). under preparation.  

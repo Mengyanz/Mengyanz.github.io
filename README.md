@@ -22,7 +22,7 @@ Designing the pipeline and recommendation strategies from a practical point of v
   {[C3DIS 2020 Presentation](http://www.c3dis.com/3846)}
 
 - Active Learning on Knowledge Graph.
-{[software](https://github.com/chengsoonong/acton); [design](https://github.com/chengsoonong/acton/blob/master/docs/design/acton.pdf)}
+{[software](https://github.com/chengsoonong/acton); [flowchart](https://github.com/chengsoonong/acton/blob/master/docs/design/acton.pdf); [design](https://github.com/chengsoonong/acton/blob/master/docs/PRESCAL%20Updating%20Design.ipynb)}
 
 - Honours project: Classification of historical death and occupation coding  {[thesis](files/Classification_of_historical_death_and_occupation_coding.pdf)} 
   (supervisors: [Peter Christen](https://users.cecs.anu.edu.au/~Peter.Christen/), [Timothy Graham](https://scholar.google.com.au/citations?user=9GG-wWEAAAAJ&hl=en))
@@ -34,7 +34,7 @@ Designing the pipeline and recommendation strategies from a practical point of v
 ## Events & News
 <!-- - **Update Jan. 2021** I am framing my "[big picture](files/big_picture)" of research, talk to me if you are interested! -->
 - **May. 2021** Our work *Machine Learning guided workflow for Ribosome Binding Site engineering* got accepted in Synthetic Biology: Engineering, Evolution & Design (SEED) 2021 Conference for oral abstract! [Maciej Holowko](https://people.csiro.au/H/M/Maciej-Holowko) will present, see you there!
-- **May. 2021** Our paper *Quantile Bandits for Best Arms Identification.* got accepted for ICML 2021! See you online!
+- **May. 2021** Our paper *Quantile Bandits for Best Arms Identification* got accepted for ICML 2021! See you online!
 - **Update Mar. 2021** I am collecting good resources for machine learning study, see [here](files/good_resources.md)
 - **Mar.-Jun. 2021** I am co-supervising Nathan Hu on applying [DNABERT](https://www.biorxiv.org/content/10.1101/2020.09.17.301879v1) to [yeast promotor](https://www.nature.com/articles/s41467-020-15977-4). Do chat with us if you are interested!
 - **Jan.-Jun. 2021**: I am participating the [WiML-T Mentoring Program](https://www.wiml-t.org/mentoring-program). My paired mentor is [Sebastien Bubeck](http://sbubeck.com/)!

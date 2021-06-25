@@ -15,11 +15,11 @@ Designing the pipeline and recommendation strategies from a practical point of v
 ## Research & Publications/Preprint
 
 - Quantile Bandits for Best Arms Identification.
-  **Zhang, M.**, Ong, C. S. (2021). International Conference on Machine Learning. {[arXiv:2010.11568.](https://arxiv.org/abs/2010.11568); [code](files/quantile_bandits.zip)}
+  **Zhang, M.**, Ong, C. S. (2021). International Conference on Machine Learning. {[arXiv:2010.11568.](https://arxiv.org/abs/2010.11568); [code](https://github.com/Mengyanz/QSAR)}
 
-- Optimized Experimental Design for Translation Initiation using Machine Learning.   
-  **Zhang, M.**, Holowko M. B., Hayman Zumpe H., Ong, C. S. (2020). under preparation.  
-  {[C3DIS 2020 Presentation](http://www.c3dis.com/3846)}
+- Machine Learning guided workflow for Ribosome Binding Site engineering.   
+  **Zhang, M.**, Holowko M. B., Hayman Zumpe H., Ong, C. S. (2020). Under Review.  
+  {[C3DIS 2020 Talk](http://www.c3dis.com/3846); [SEED 2021 Talk]()}
 
 - Active Learning on Knowledge Graph.
 {[software](https://github.com/chengsoonong/acton); [flowchart](https://github.com/chengsoonong/acton/blob/master/docs/design/acton.pdf); [design](https://github.com/chengsoonong/acton/blob/master/docs/PRESCAL%20Updating%20Design.ipynb)}
@@ -33,10 +33,11 @@ Designing the pipeline and recommendation strategies from a practical point of v
 
 ## Events & News
 <!-- - **Update Jan. 2021** I am framing my "[big picture](files/big_picture)" of research, talk to me if you are interested! -->
+- **June. 2021** Our work *Opportunities and Challenges in Designing Genomic Sequences* is accepted in the [2021 ICML Workshop on Computational Biology](https://icml-compbio.github.io) as spotlight talk! Come to talk us in our poster session!
 - **May. 2021** Our work *Machine Learning guided workflow for Ribosome Binding Site engineering* got accepted in Synthetic Biology: Engineering, Evolution & Design (SEED) 2021 Conference for oral abstract! [Maciej Holowko](https://people.csiro.au/H/M/Maciej-Holowko) will present, see you there!
 - **May. 2021** Our paper *Quantile Bandits for Best Arms Identification* got accepted for ICML 2021! See you online!
 - **Update Mar. 2021** I am collecting good resources for machine learning study, see [here](files/good_resources.md)
-- **Mar.-Jun. 2021** I am co-supervising Nathan Hu on applying [DNABERT](https://www.biorxiv.org/content/10.1101/2020.09.17.301879v1) to [yeast promotor](https://www.nature.com/articles/s41467-020-15977-4). Do chat with us if you are interested!
+- **Mar.-Jun. 2021** I am co-supervising Nathan Hu on applying [DNABERT](https://www.biorxiv.org/content/10.1101/2020.09.17.301879v1) to [yeast promotor](https://www.nature.com/articles/s41467-020-15977-4). See details [here](https://github.com/chengsoonong/eheye/tree/master/nathan_project)!
 - **Jan.-Jun. 2021**: I am participating the [WiML-T Mentoring Program](https://www.wiml-t.org/mentoring-program). My paired mentor is [Sebastien Bubeck](http://sbubeck.com/)!
 - **Dec. 2020**: attend [NeurPIS 2020](https://neurips.cc/virtual/2020/protected/cal_main.html) virtually.
 - **Jul. 2020**: attend [ICML 2020](https://icml.cc/virtual/2020) virtually.

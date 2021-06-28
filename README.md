@@ -17,6 +17,8 @@ Designing the pipeline and recommendation strategies from a practical point of v
 - Quantile Bandits for Best Arms Identification.
   **Zhang, M.**, Ong, C. S. (2021). International Conference on Machine Learning. {[arXiv:2010.11568.](https://arxiv.org/abs/2010.11568); [code](https://github.com/Mengyanz/QSAR)}
 
+- Opportunities and Challenges in Designing Genomic Sequences. **Zhang, M.**, Ong, C. S. (2021). ICML Workshop on Computational Biology. 
+
 - Machine Learning guided workflow for Ribosome Binding Site engineering.   
   **Zhang, M.**, Holowko M. B., Hayman Zumpe H., Ong, C. S. (2020). Under Review.  
   {[C3DIS 2020 Talk](http://www.c3dis.com/3846); [SEED 2021 Talk]()}

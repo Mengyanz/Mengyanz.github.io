@@ -4,7 +4,9 @@
 Email: mengyan.zhang@anu.edu.au     
 [[CV](files/Mengyan_CV.pdf)| [Github](https://github.com/Mengyanz)| [Twitter](https://twitter.com/MengyanZg)]
 
-I am currently a PhD candidate at the Australian National Univerisity and Data61, CSIRO, under supervision of Dr. [Cheng Soon Ong](http://www.ong-home.my/index.html), Prof. [Lexing Xie](http://users.cecs.anu.edu.au/~xlx/) and Prof. [Eduardo Eyras](https://jcsmr.anu.edu.au/people/academics/professor-eduardo-eyras). Prior to that, I obtained my bachelor degree with first-class honour at the Australian National University and the bachelor degree at Shandong University in 2018 (2 + 2 joint degree program). 
+I am currently a PhD candidate at the Australian National Univerisity and Data61, CSIRO, under supervision of Dr. [Cheng Soon Ong](http://www.ong-home.my/index.html), Prof. [Lexing Xie](http://users.cecs.anu.edu.au/~xlx/) and Prof. [Eduardo Eyras](https://jcsmr.anu.edu.au/people/academics/professor-eduardo-eyras). 
+I also short-term mentor by [Sebastien Bubeck](http://sbubeck.com/) via the [WiML-T Mentoring Program](https://www.wiml-t.org/mentoring-program) in 2021. 
+Prior to that, I obtained my bachelor degree with first-class honour at the Australian National University and the bachelor degree at Shandong University in 2018 (2 + 2 joint degree program). 
 
 My research interests are online experimental design in machine learning, including multi-armed bandits and active learning. I work on both theoretical and practical views of experimental design with two goals:
 (I) designing robust algorithms to reflect the preference of agents, for example, risk-aversion. 
@@ -17,7 +19,7 @@ Designing the pipeline and recommendation strategies from a practical point of v
 - Quantile Bandits for Best Arms Identification.
   **Zhang, M.**, Ong, C. S. (2021). International Conference on Machine Learning. {[arXiv:2010.11568.](https://arxiv.org/abs/2010.11568); [code](https://github.com/Mengyanz/QSAR)}
 
-- Opportunities and Challenges in Designing Genomic Sequences. **Zhang, M.**, Ong, C. S. (2021). ICML Workshop on Computational Biology. 
+- Opportunities and Challenges in Designing Genomic Sequences. **Zhang, M.**, Ong, C. S. (2021). ICML Workshop on Computational Biology. {[paper]((https://icml-compbio.github.io))}
 
 - Machine Learning guided workflow for Ribosome Binding Site engineering.   
   **Zhang, M.**, Holowko M. B., Hayman Zumpe H., Ong, C. S. (2020). Under Review.  
@@ -32,9 +34,11 @@ Designing the pipeline and recommendation strategies from a practical point of v
 ## Teaching
 - [Statistical Machine Learning](https://programsandcourses.anu.edu.au/2021/course/COMP8600) (S1 2019, S1 2020, S1 2021)
 - [Introduction to Machine Learning](https://programsandcourses.anu.edu.au/2021/course/COMP6670) (S2 2020)
+- **(Mar.-Jun. 2021)** co-supervision on Nathan Hu for applying [DNABERT](https://www.biorxiv.org/content/10.1101/2020.09.17.301879v1) to [yeast promotor](https://www.nature.com/articles/s41467-020-15977-4). See details [here](https://github.com/chengsoonong/eheye/tree/master/nathan_project)!
 
 ## Events & News
 <!-- - **Update Jan. 2021** I am framing my "[big picture](files/big_picture)" of research, talk to me if you are interested! -->
+- **Step. 2021** I start my internship at Microsoft Research Asian (MSRA) in [Social Computing team](https://www.microsoft.com/en-us/research/group/social-computing-beijing/#!overview), mentored by [Fangzhao Wu](https://www.microsoft.com/en-us/research/people/fangzwu/). 
 - **June. 2021** Our work *Opportunities and Challenges in Designing Genomic Sequences* is accepted in the [2021 ICML Workshop on Computational Biology](https://icml-compbio.github.io) as spotlight talk! Come to talk us in our poster session!
 - **May. 2021** Our work *Machine Learning guided workflow for Ribosome Binding Site engineering* got accepted in Synthetic Biology: Engineering, Evolution & Design (SEED) 2021 Conference for oral abstract! [Maciej Holowko](https://people.csiro.au/H/M/Maciej-Holowko) will present, see you there!
 - **May. 2021** Our paper *Quantile Bandits for Best Arms Identification* got accepted for ICML 2021! See you online!

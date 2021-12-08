@@ -16,15 +16,15 @@ Designing the pipeline and recommendation strategies from a practical point of v
 
 ## Research & Publications/Preprint
 
-- Gaussian Process Bandits with Aggregated Feedback. **Mengyan Zhang**, Russell Tsuchida, Cheng Soon Ong (2021). {[pre-print](files/aaai2022_main.pdf); [code](); [poster](files/wiml2021_poster.png); [one-page abstract](files/wiml2021_abstract.pdf)}
+- Gaussian Process Bandits with Aggregated Feedback. **Mengyan Zhang**, Russell Tsuchida, Cheng Soon Ong. AAAI 2022. {[pre-print](files/aaai2022_main.pdf); [code](); [poster](files/wiml2021_poster.png); [one-page abstract](files/wiml2021_abstract.pdf)}
 
 - Quantile Bandits for Best Arms Identification.
-  **Mengyan Zhang**, Cheng Soon Ong (2021). International Conference on Machine Learning. {[paper](https://proceedings.mlr.press/v139/zhang21o); [code](https://github.com/Mengyanz/QSAR); [poster](files/icml2021_quantile_bandits_poster.png); [talk](https://slideslive.com/38958832/quantile-bandits-for-best-arms-identification?ref=account-90553-history)}
+  **Mengyan Zhang**, Cheng Soon Ong. International Conference on Machine Learning 2021. {[paper](https://proceedings.mlr.press/v139/zhang21o); [code](https://github.com/Mengyanz/QSAR); [poster](files/icml2021_quantile_bandits_poster.png); [talk](https://slideslive.com/38958832/quantile-bandits-for-best-arms-identification?ref=account-90553-history)}
 
-- Opportunities and Challenges in Designing Genomic Sequences. **Mengyan Zhang**, Cheng Soon Ong (2021). ICML Workshop on Computational Biology. {[paper]((https://icml-compbio.github.io)); [poster](files/wcb2021_poster.png); [talk](https://slideslive.com/38959950/opportunities-and-challenges-in-designing-genomic-sequences?ref=speaker-78576-latest)}
+- Opportunities and Challenges in Designing Genomic Sequences. **Mengyan Zhang**, Cheng Soon Ong. ICML Workshop on Computational Biology 2021. {[paper]((https://icml-compbio.github.io)); [poster](files/wcb2021_poster.png); [talk](https://slideslive.com/38959950/opportunities-and-challenges-in-designing-genomic-sequences?ref=speaker-78576-latest)}
 
 - Machine Learning guided workflow for Ribosome Binding Site engineering.   
-  **Mengyan Zhang**, Holowko M. B., Hayman Zumpe H., Cheng Soon Ong (2020). Under Review.  
+  **Mengyan Zhang**, Holowko M. B., Hayman Zumpe H., Cheng Soon Ong. Under Review 2020.  
   {[C3DIS 2020 Talk](http://www.c3dis.com/3846); [SEED 2021 Talk]()}
 
 - Active Learning on Knowledge Graph.
@@ -34,8 +34,8 @@ Designing the pipeline and recommendation strategies from a practical point of v
   (supervisors: [Peter Christen](https://users.cecs.anu.edu.au/~Peter.Christen/), [Timothy Graham](https://scholar.google.com.au/citations?user=9GG-wWEAAAAJ&hl=en))
   
 ## Teaching
-- [Statistical Machine Learning](https://programsandcourses.anu.edu.au/2021/course/COMP8600) (S1 2019, S1 2020, S1 2021)
-- [Introduction to Machine Learning](https://programsandcourses.anu.edu.au/2021/course/COMP6670) (S2 2020)
+- Tutor [Statistical Machine Learning](https://programsandcourses.anu.edu.au/2021/course/COMP8600) (S1 2019, S1 2020, S1 2021)
+- Tutor [Introduction to Machine Learning](https://programsandcourses.anu.edu.au/2021/course/COMP6670) (S2 2020)
 - **(Mar.-Jun. 2021)** co-supervision on Nathan Hu for applying [DNABERT](https://www.biorxiv.org/content/10.1101/2020.09.17.301879v1) to [yeast promotor](https://www.nature.com/articles/s41467-020-15977-4). See details [here](https://github.com/chengsoonong/eheye/tree/master/nathan_project)!
 
 ## Events & News

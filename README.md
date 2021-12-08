@@ -16,13 +16,15 @@ Designing the pipeline and recommendation strategies from a practical point of v
 
 ## Research & Publications/Preprint
 
-- Quantile Bandits for Best Arms Identification.
-  **Zhang, M.**, Ong, C. S. (2021). International Conference on Machine Learning. {[arXiv:2010.11568.](https://arxiv.org/abs/2010.11568); [code](https://github.com/Mengyanz/QSAR)}
+- Gaussian Process Bandits with Aggregated Feedback. **Mengyan Zhang**, Russell Tsuchida, Cheng Soon Ong (2021). {[pre-print](files/aaai2022_main.pdf); [code](); [poster](files/wiml2021_poster.png); [one-page abstract](files/wiml2021_abstract.pdf)}
 
-- Opportunities and Challenges in Designing Genomic Sequences. **Zhang, M.**, Ong, C. S. (2021). ICML Workshop on Computational Biology. {[paper]((https://icml-compbio.github.io))}
+- Quantile Bandits for Best Arms Identification.
+  **Mengyan Zhang**, Cheng Soon Ong (2021). International Conference on Machine Learning. {[paper](https://proceedings.mlr.press/v139/zhang21o); [code](https://github.com/Mengyanz/QSAR); [poster](files/icml2021_quantile_bandits_poster.png); [talk](https://slideslive.com/38958832/quantile-bandits-for-best-arms-identification?ref=account-90553-history)}
+
+- Opportunities and Challenges in Designing Genomic Sequences. **Mengyan Zhang**, Cheng Soon Ong (2021). ICML Workshop on Computational Biology. {[paper]((https://icml-compbio.github.io)); [poster](files/wcb2021_poster.png); [talk](https://slideslive.com/38959950/opportunities-and-challenges-in-designing-genomic-sequences?ref=speaker-78576-latest)}
 
 - Machine Learning guided workflow for Ribosome Binding Site engineering.   
-  **Zhang, M.**, Holowko M. B., Hayman Zumpe H., Ong, C. S. (2020). Under Review.  
+  **Mengyan Zhang**, Holowko M. B., Hayman Zumpe H., Cheng Soon Ong (2020). Under Review.  
   {[C3DIS 2020 Talk](http://www.c3dis.com/3846); [SEED 2021 Talk]()}
 
 - Active Learning on Knowledge Graph.
@@ -38,6 +40,8 @@ Designing the pipeline and recommendation strategies from a practical point of v
 
 ## Events & News
 <!-- - **Update Jan. 2021** I am framing my "[big picture](files/big_picture)" of research, talk to me if you are interested! -->
+- **Dec. 2021** Our work Gaussian Process Bandits with Aggregated Feedback (abstract) is accepted to be presented at WiML workshop in NeurPIS2021! Come and talk to us!
+- **Dec. 2021** Our work Gaussian Process Bandits with Aggregated Feedback is accepted by AAAI2022! (Acceptance rate 15%)
 - **Step. 2021** I start my internship at Microsoft Research Asian (MSRA) in [Social Computing team](https://www.microsoft.com/en-us/research/group/social-computing-beijing/#!overview), mentored by [Fangzhao Wu](https://www.microsoft.com/en-us/research/people/fangzwu/). 
 - **June. 2021** Our work *Opportunities and Challenges in Designing Genomic Sequences* is accepted in the [2021 ICML Workshop on Computational Biology](https://icml-compbio.github.io) as spotlight talk! Come to talk us in our poster session!
 - **May. 2021** Our work *Machine Learning guided workflow for Ribosome Binding Site engineering* got accepted in Synthetic Biology: Engineering, Evolution & Design (SEED) 2021 Conference for oral abstract! [Maciej Holowko](https://people.csiro.au/H/M/Maciej-Holowko) will present, see you there!

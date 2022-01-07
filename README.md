@@ -23,9 +23,9 @@ Designing the pipeline and recommendation strategies from a practical point of v
 
 - Opportunities and Challenges in Designing Genomic Sequences. **Mengyan Zhang**, Cheng Soon Ong. ICML Workshop on Computational Biology 2021. {[paper]((https://icml-compbio.github.io)); [poster](files/wcb2021_poster.png); [talk](https://slideslive.com/38959950/opportunities-and-challenges-in-designing-genomic-sequences?ref=speaker-78576-latest)}
 
-- Machine Learning guided workflow for Ribosome Binding Site engineering.   
-  **Mengyan Zhang**, Holowko M. B., Hayman Zumpe H., Cheng Soon Ong. Under Review 2020.  
-  {[C3DIS 2020 Talk](http://www.c3dis.com/3846); [SEED 2021 Talk]()}
+- Machine learning guided batched design of a bacterial Ribosome Binding Site.   
+  **Mengyan Zhang**, Holowko M. B., Hayman Zumpe H., Cheng Soon Ong. Under Review 2021.  
+  {[bioRxiv](https://www.biorxiv.org/content/10.1101/2022.01.05.475140v1); [C3DIS 2020 Talk](http://www.c3dis.com/3846); [SEED 2021 Talk]()}
 
 - Active Learning on Knowledge Graph.
 {[software](https://github.com/chengsoonong/acton); [flowchart](https://github.com/chengsoonong/acton/blob/master/docs/design/acton.pdf); [design](https://github.com/chengsoonong/acton/blob/master/docs/PRESCAL%20Updating%20Design.ipynb)}

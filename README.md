@@ -40,7 +40,8 @@ Designing the pipeline and recommendation strategies from a practical point of v
 
 ## Events & News
 <!-- - **Update Jan. 2021** I am framing my "[big picture](files/big_picture)" of research, talk to me if you are interested! -->
-- **Jan. 2022** I give a talk on *Best arm identifications: classifical settings* and methods in Microsoft, see [slides](files/BAI-mengyan.pdf) here!
+- **Feb. 2022** I give a talk on *Bandits in Recommendation System* in Microsoft Research Asian, see [slides](files/Bandits-in-Recommendation-System.pdf) here!
+- **Jan. 2022** I give a talk on *Best arm identifications: classifical settings and methods * in Microsoft, see [slides](files/BAI-mengyan.pdf) here!
 - **Dec. 2021** Our work *Gaussian Process Bandits with Aggregated Feedback* (abstract) is accepted to be presented at WiML workshop in NeurPIS2021! Come and talk to us!
 - **Dec. 2021** Our work *Gaussian Process Bandits with Aggregated Feedback* is accepted by AAAI2022! (Acceptance rate 15%)
 - **Step. 2021** I start my internship at Microsoft Research Asian (MSRA) in [Social Computing team](https://www.microsoft.com/en-us/research/group/social-computing-beijing/#!overview), mentored by [Fangzhao Wu](https://www.microsoft.com/en-us/research/people/fangzwu/). 

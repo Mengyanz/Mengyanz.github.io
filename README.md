@@ -4,7 +4,7 @@
 Email: mengyan.zhang@anu.edu.au     
 [[CV](files/Mengyan_CV.pdf)| [Github](https://github.com/Mengyanz)| [Twitter](https://twitter.com/MengyanZg)|[Linkedin](https://www.linkedin.com/in/mengyan-zhang-a1466a212/)]
 
-I am Mengyan Zhang (张梦妍), currently a PhD candidate at the Australian National Univerisity and Data61, CSIRO, under supervision of Dr. [Cheng Soon Ong](http://www.ong-home.my/index.html), Prof. [Lexing Xie](http://users.cecs.anu.edu.au/~xlx/) and Prof. [Eduardo Eyras](https://jcsmr.anu.edu.au/people/academics/professor-eduardo-eyras). 
+I am Mengyan Zhang (张梦妍), currently a PhD candidate at the Australian National University and Data61, CSIRO, under the supervision of Dr. [Cheng Soon Ong](http://www.ong-home.my/index.html), Prof. [Lexing Xie](http://users.cecs.anu.edu.au/~xlx/) and Prof. [Eduardo Eyras](https://jcsmr.anu.edu.au/people/academics/professor-eduardo-eyras). 
 I'm also short-termly mentored by [Sebastien Bubeck](http://sbubeck.com/) via the [WiML-T Mentoring Program](https://www.wiml-t.org/mentoring-program) in 2021. 
 Prior to that, I obtained my bachelor degree with first-class honour at the Australian National University and the bachelor degree at Shandong University in 2018 ([2 + 2 joint degree program](https://cecs.anu.edu.au/study/meet-our-students/mengyan-zhang)). 
 
@@ -41,16 +41,16 @@ Designing the pipeline and recommendation strategies from a practical point of v
 ## Events & News
 <!-- - **Update Jan. 2021** I am framing my "[big picture](files/big_picture)" of research, talk to me if you are interested! -->
 - **Feb. 2022** I give a talk on *Bandits in Recommendation System* in Microsoft Research Asian, see [slides](files/Bandits-in-Recommendation-System.pdf) here!
-- **Jan. 2022** I give a talk on *Best arm identifications: classifical settings and methods * in Microsoft, see [slides](files/BAI-mengyan.pdf) here!
+- **Jan. 2022** I give a talk on *Best arm identifications: classical settings and methods * in Microsoft, see [slides](files/BAI-mengyan.pdf) here!
 - **Dec. 2021** Our work *Gaussian Process Bandits with Aggregated Feedback* (abstract) is accepted to be presented at WiML workshop in NeurPIS2021! Come and talk to us!
 - **Dec. 2021** Our work *Gaussian Process Bandits with Aggregated Feedback* is accepted by AAAI2022! (Acceptance rate 15%)
 - **Step. 2021** I start my internship at Microsoft Research Asian (MSRA) in [Social Computing team](https://www.microsoft.com/en-us/research/group/social-computing-beijing/#!overview), mentored by [Fangzhao Wu](https://www.microsoft.com/en-us/research/people/fangzwu/). 
-- **June. 2021** Our work *Opportunities and Challenges in Designing Genomic Sequences* is accepted in the [2021 ICML Workshop on Computational Biology](https://icml-compbio.github.io) as spotlight talk! Come to talk us in our poster session!
+- **June. 2021** Our work *Opportunities and Challenges in Designing Genomic Sequences* is accepted in the [2021 ICML Workshop on Computational Biology](https://icml-compbio.github.io) as spotlight talk! Come to talk to us in our poster session!
 - **May. 2021** Our work *Machine Learning guided workflow for Ribosome Binding Site engineering* got accepted in Synthetic Biology: Engineering, Evolution & Design (SEED) 2021 Conference for oral abstract! [Maciej Holowko](https://people.csiro.au/H/M/Maciej-Holowko) will present, see you there!
 - **May. 2021** Our paper *Quantile Bandits for Best Arms Identification* got accepted for ICML 2021! See you online!
 - **Update Mar. 2021** I am collecting good resources for machine learning study, see [here](files/good_resources.md)
 - **Mar.-Jun. 2021** I am co-supervising Nathan Hu on applying [DNABERT](https://www.biorxiv.org/content/10.1101/2020.09.17.301879v1) to [yeast promotor](https://www.nature.com/articles/s41467-020-15977-4). See details [here](https://github.com/chengsoonong/eheye/tree/master/nathan_project)!
-- **Jan.-Jun. 2021**: I am participating the [WiML-T Mentoring Program](https://www.wiml-t.org/mentoring-program). My paired mentor is [Sebastien Bubeck](http://sbubeck.com/)!
+- **Jan.-Jun. 2021**: I am participating in the [WiML-T Mentoring Program](https://www.wiml-t.org/mentoring-program). My paired mentor is [Sebastien Bubeck](http://sbubeck.com/)!
 - **Dec. 2020**: attend [NeurPIS 2020](https://neurips.cc/virtual/2020/protected/cal_main.html) virtually.
 - **Jul. 2020**: attend [ICML 2020](https://icml.cc/virtual/2020) virtually.
 - **Apr. 2020**: I am accepted to [MLSS 2020](http://mlss.tuebingen.mpg.de/2020/index.html) at the Max Planck Institute for Intelligent Systems, Tübingen, Germany! (Acceptance rate 13.84%.) Lecture videos and slides can be found [here](http://mlss.tuebingen.mpg.de/2020/schedule.html).

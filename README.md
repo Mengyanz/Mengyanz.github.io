@@ -16,7 +16,7 @@ Designing the pipeline and recommendation strategies from a practical point of v
 
 ## Research & Publications/Preprint
 
-- Gaussian Process Bandits with Aggregated Feedback. **Mengyan Zhang**, Russell Tsuchida, Cheng Soon Ong. AAAI 2022. {[pre-print](https://arxiv.org/abs/2112.13029); [code](); [poster](files/wiml2021_poster.png); [one-page abstract](files/wiml2021_abstract.pdf)}
+- Gaussian Process Bandits with Aggregated Feedback. **Mengyan Zhang**, Russell Tsuchida, Cheng Soon Ong. AAAI 2022. {[pre-print](https://arxiv.org/abs/2112.13029); [code](https://github.com/Mengyanz/GPOO); [poster](files/wiml2021_poster.png); [one-page abstract](files/wiml2021_abstract.pdf)}
 
 - Quantile Bandits for Best Arms Identification.
   **Mengyan Zhang**, Cheng Soon Ong. International Conference on Machine Learning 2021. {[paper](https://proceedings.mlr.press/v139/zhang21o); [code](https://github.com/Mengyanz/QSAR); [poster](files/icml2021_quantile_bandits_poster.png); [talk](https://slideslive.com/38958832/quantile-bandits-for-best-arms-identification?ref=account-90553-history)}

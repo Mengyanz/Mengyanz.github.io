@@ -33,7 +33,8 @@ Designing the pipeline and recommendation strategies from a practical point of v
 - Honours project: Classification of historical death and occupation coding  {[thesis](files/Classification_of_historical_death_and_occupation_coding.pdf)} 
   (supervisors: [Peter Christen](https://users.cecs.anu.edu.au/~Peter.Christen/), [Timothy Graham](https://scholar.google.com.au/citations?user=9GG-wWEAAAAJ&hl=en))
   
-## Teaching
+## Jobs & Teaching
+- Research Intern at Microsoft Research Asian (MSRA) [Social Computing Lab](https://www.microsoft.com/en-us/research/group/social-computing-beijing/) (2021.10-2022.03).
 - Tutor [Statistical Machine Learning](https://programsandcourses.anu.edu.au/2021/course/COMP8600) (S1 2019, S1 2020, S1 2021)
 - Tutor [Introduction to Machine Learning](https://programsandcourses.anu.edu.au/2021/course/COMP6670) (S2 2020)
 - **(Mar.-Jun. 2021)** co-supervision on Nathan Hu for applying [DNABERT](https://www.biorxiv.org/content/10.1101/2020.09.17.301879v1) to [yeast promotor](https://www.nature.com/articles/s41467-020-15977-4). See details [here](https://github.com/chengsoonong/eheye/tree/master/nathan_project)!
@@ -41,7 +42,7 @@ Designing the pipeline and recommendation strategies from a practical point of v
 ## Events & News
 <!-- - **Update Jan. 2021** I am framing my "[big picture](files/big_picture)" of research, talk to me if you are interested! -->
 - **Feb. 2022** I give a talk on *Bandits in Recommendation System* in Microsoft Research Asian, see [slides](files/Bandits-in-Recommendation-System.pdf) here!
-- **Jan. 2022** I give a talk on *Best arm identifications: classical settings and methods * in Microsoft, see [slides](files/BAI-mengyan.pdf) here!
+- **Jan. 2022** I give a talk on *Best arm identifications: classical settings and methods* in Microsoft, see [slides](files/BAI-mengyan.pdf) here!
 - **Dec. 2021** Our work *Gaussian Process Bandits with Aggregated Feedback* (abstract) is accepted to be presented at WiML workshop in NeurPIS2021! Come and talk to us!
 - **Dec. 2021** Our work *Gaussian Process Bandits with Aggregated Feedback* is accepted by AAAI2022! (Acceptance rate 15%)
 - **Step. 2021** I start my internship at Microsoft Research Asian (MSRA) in [Social Computing team](https://www.microsoft.com/en-us/research/group/social-computing-beijing/#!overview), mentored by [Fangzhao Wu](https://www.microsoft.com/en-us/research/people/fangzwu/). 

@@ -16,18 +16,22 @@ Designing the pipeline and recommendation strategies from a practical point of v
 
 ## Research & Publications/Preprint
 
-- Two-Stage Neural Contextual Bandits for Personalised News Recommendation. **Mengyan Zhang**, Thanh Nguyen-Tang, Fangzhao Wu, Zhenyu He, Xing Xie, Cheng Soon Ong. Under Review.  {[pre-print]()}
+- Two-Stage Neural Contextual Bandits for Personalised News Recommendation.  
+ **Mengyan Zhang**, Thanh Nguyen-Tang, Fangzhao Wu, Zhenyu He, Xing Xie, Cheng Soon Ong. Under Review.  {[pre-print]()}
 
-- Gaussian Process Bandits with Aggregated Feedback. **Mengyan Zhang**, Russell Tsuchida, Cheng Soon Ong. AAAI 2022. {[pre-print](https://arxiv.org/abs/2112.13029); [code](https://github.com/Mengyanz/GPOO); [poster](files/wiml2021_poster.png); [one-page abstract](files/wiml2021_abstract.pdf)}
-
-- Quantile Bandits for Best Arms Identification.
-  **Mengyan Zhang**, Cheng Soon Ong. International Conference on Machine Learning 2021. {[paper](https://proceedings.mlr.press/v139/zhang21o); [code](https://github.com/Mengyanz/QSAR); [poster](files/icml2021_quantile_bandits_poster.png); [talk](https://slideslive.com/38958832/quantile-bandits-for-best-arms-identification?ref=account-90553-history)}
-
-- Opportunities and Challenges in Designing Genomic Sequences. **Mengyan Zhang**, Cheng Soon Ong. ICML Workshop on Computational Biology 2021. {[paper]((https://icml-compbio.github.io)); [poster](files/wcb2021_poster.png); [talk](https://slideslive.com/38959950/opportunities-and-challenges-in-designing-genomic-sequences?ref=speaker-78576-latest)}
+- Gaussian Process Bandits with Aggregated Feedback.  
+**Mengyan Zhang**, Russell Tsuchida, Cheng Soon Ong. AAAI 2022. {[pre-print](https://arxiv.org/abs/2112.13029); [code](https://github.com/Mengyanz/GPOO); [poster](files/wiml2021_poster.png); [one-page abstract](files/wiml2021_abstract.pdf)}
 
 - Machine learning guided batched design of a bacterial Ribosome Binding Site.   
-  **Mengyan Zhang**, Holowko M. B., Hayman Zumpe H., Cheng Soon Ong. Under Review 2021.  
+  **Mengyan Zhang**, Holowko M. B., Hayman Zumpe H., Cheng Soon Ong. ACS Synthetic Biology Journal 2022.
   {[bioRxiv](https://www.biorxiv.org/content/10.1101/2022.01.05.475140v1); [C3DIS 2020 Talk](http://www.c3dis.com/3846); [SEED 2021 Talk]()}
+
+- Quantile Bandits for Best Arms Identification.  
+  **Mengyan Zhang**, Cheng Soon Ong. International Conference on Machine Learning 2021. {[paper](https://proceedings.mlr.press/v139/zhang21o); [code](https://github.com/Mengyanz/QSAR); [poster](files/icml2021_quantile_bandits_poster.png); [talk](https://slideslive.com/38958832/quantile-bandits-for-best-arms-identification?ref=account-90553-history)}
+
+- Opportunities and Challenges in Designing Genomic Sequences.  
+**Mengyan Zhang**, Cheng Soon Ong. ICML Workshop on Computational Biology 2021. {[paper]((https://icml-compbio.github.io)); [poster](files/wcb2021_poster.png); [talk](https://slideslive.com/38959950/opportunities-and-challenges-in-designing-genomic-sequences?ref=speaker-78576-latest)}
+
 
 - Active Learning on Knowledge Graph.
 {[software](https://github.com/chengsoonong/acton); [flowchart](https://github.com/chengsoonong/acton/blob/master/docs/design/acton.pdf); [design](https://github.com/chengsoonong/acton/blob/master/docs/PRESCAL%20Updating%20Design.ipynb)}
@@ -58,6 +62,7 @@ Designing the pipeline and recommendation strategies from a practical point of v
 
 ## Events & News
 <!-- - **Update Jan. 2021** I am framing my "[big picture](files/big_picture)" of research, talk to me if you are interested! -->
+- **Jun. 2022** Our work *Machine learning guided batched design of a bacterial Ribosome Binding Site* is accepted by the ACS Synthetic Biology Journal! 
 - **Dec. 2021** Our work *Gaussian Process Bandits with Aggregated Feedback* (abstract) is accepted to be presented at WiML workshop in NeurPIS2021! Come and talk to us!
 - **Dec. 2021** Our work *Gaussian Process Bandits with Aggregated Feedback* is accepted by AAAI2022! (Acceptance rate 15%)
 - **Step. 2021** I start my internship at Microsoft Research Asian (MSRA) in [Social Computing team](https://www.microsoft.com/en-us/research/group/social-computing-beijing/#!overview), mentored by [Fangzhao Wu](https://www.microsoft.com/en-us/research/people/fangzwu/). 

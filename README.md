@@ -2,7 +2,7 @@
 [Computational Media Lab](http://cm.cecs.anu.edu.au/), [Research School of Computer Science, Australian National University](https://cs.anu.edu.au/)  
 [Machine Learning Research Group](https://machlearn.gitlab.io/group/), [Data61,CSIRO](https://data61.csiro.au/en/Our-Research/Focus-Areas/AI-and-Machine-Learning)      
 Email: mengyan.zhang@anu.edu.au     
-[[CV](files/Mengyan_CV.pdf)| [Github](https://github.com/Mengyanz)| [Twitter](https://twitter.com/MengyanZg)|[Linkedin](https://www.linkedin.com/in/mengyan-zhang-a1466a212/)]
+[[CV](files/Mengyan_CV.pdf)|[Google Scholar](https://scholar.google.com/citations?user=Dqot5i0AAAAJ&hl=zh-CN)|[Github](https://github.com/Mengyanz)| [Twitter](https://twitter.com/MengyanZg)|[Linkedin](https://www.linkedin.com/in/mengyan-zhang-a1466a212/)]
 
 I am Mengyan Zhang (张梦妍), currently a PhD candidate at the Australian National University and Data61, CSIRO, under the supervision of Dr. [Cheng Soon Ong](http://www.ong-home.my/index.html), Prof. [Lexing Xie](http://users.cecs.anu.edu.au/~xlx/) and Prof. [Eduardo Eyras](https://jcsmr.anu.edu.au/people/academics/professor-eduardo-eyras). 
 I'm also short-termly mentored by [Sebastien Bubeck](http://sbubeck.com/) via the [WiML-T Mentoring Program](https://www.wiml-t.org/mentoring-program) in 2021. 
@@ -24,7 +24,7 @@ Designing the pipeline and recommendation strategies from a practical point of v
 
 - Machine learning guided batched design of a bacterial Ribosome Binding Site.   
   **Mengyan Zhang**, Holowko M. B., Hayman Zumpe H., Cheng Soon Ong. ACS Synthetic Biology Journal 2022.
-  {[bioRxiv](https://www.biorxiv.org/content/10.1101/2022.01.05.475140v1); [C3DIS 2020 Talk](http://www.c3dis.com/3846); [SEED 2021 Talk]()}
+  {[paper](https://pubs.acs.org/doi/10.1021/acssynbio.2c00015); [C3DIS 2020 Talk](http://www.c3dis.com/3846); [SEED 2021 Talk]()}
 
 - Quantile Bandits for Best Arms Identification.  
   **Mengyan Zhang**, Cheng Soon Ong. International Conference on Machine Learning 2021. {[paper](https://proceedings.mlr.press/v139/zhang21o); [code](https://github.com/Mengyanz/QSAR); [poster](files/icml2021_quantile_bandits_poster.png); [talk](https://slideslive.com/38958832/quantile-bandits-for-best-arms-identification?ref=account-90553-history)}

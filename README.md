@@ -40,7 +40,7 @@ Designing the pipeline and recommendation strategies from a practical point of v
   (supervisors: [Peter Christen](https://users.cecs.anu.edu.au/~Peter.Christen/), [Timothy Graham](https://scholar.google.com.au/citations?user=9GG-wWEAAAAJ&hl=en))
   
 ## Talks & Presentations
-- **Jun. 2022**: ANU AI+ML+Friends seminar  
+- **Jun. 2022**: ANU AI+ML+Friends seminar (PhD Completion Talk)  
 [slides](files/mengyan_phd_final.pdf): Adaptive Recommendations with Bandit Feedback
 - **Feb. 2022**:  Microsoft Research Asian Social Computing Group Seminar  
 [slides](files/Bandits-in-Recommendation-System.pdf): Bandits in Recommendation System

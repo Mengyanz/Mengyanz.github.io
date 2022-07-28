@@ -2,7 +2,7 @@
 [Computational Media Lab](http://cm.cecs.anu.edu.au/), [Research School of Computer Science, Australian National University](https://cs.anu.edu.au/)  
 [Machine Learning Research Group](https://machlearn.gitlab.io/group/), [Data61,CSIRO](https://data61.csiro.au/en/Our-Research/Focus-Areas/AI-and-Machine-Learning)      
 Email: mengyan.zhang@anu.edu.au     
-[[CV](files/Mengyan_CV.pdf)|[Google Scholar](https://scholar.google.com/citations?user=Dqot5i0AAAAJ&hl=zh-CN)|[Github](https://github.com/Mengyanz)| [Twitter](https://twitter.com/MengyanZg)|[Linkedin](https://www.linkedin.com/in/mengyan-zhang-a1466a212/)]
+[[CV](files/MengyanZhang_CV.pdf)|[Google Scholar](https://scholar.google.com/citations?user=Dqot5i0AAAAJ&hl=zh-CN)|[Github](https://github.com/Mengyanz)| [Twitter](https://twitter.com/MengyanZg)|[Linkedin](https://www.linkedin.com/in/mengyan-zhang-a1466a212/)]
 
 I am Mengyan Zhang (张梦妍), currently a PhD candidate at the Australian National University and Data61, CSIRO, under the supervision of Dr. [Cheng Soon Ong](http://www.ong-home.my/index.html), Prof. [Lexing Xie](http://users.cecs.anu.edu.au/~xlx/) and Prof. [Eduardo Eyras](https://jcsmr.anu.edu.au/people/academics/professor-eduardo-eyras). 
 I'm also short-termly mentored by [Sebastien Bubeck](http://sbubeck.com/) via the [WiML-T Mentoring Program](https://www.wiml-t.org/mentoring-program) in 2021. 
@@ -46,7 +46,7 @@ Designing the pipeline and recommendation strategies from a practical point of v
 [slides](files/Bandits-in-Recommendation-System.pdf): Bandits in Recommendation System
 - **Jan. 2022**: Microsoft News and Feeds Group  
  [slides](files/BAI-mengyan.pdf): Best arm identifications: classical settings and methods
-- **Dec. 2021**: WiML workshop in NeurPIS  
+- **Dec. 2021**: WiML workshop in NeurIPS  
 [Poster](https://mengyanz.github.io/files/wiml2021_poster.png) presentation: Gaussian Process Bandits with Aggregated Feedback
 - **Jul. 2021**: ICML Workshop on Computational Biology  
 [Spotlight Talk](https://slideslive.com/38959950/opportunities-and-challenges-in-designing-genomic-sequences?ref=speaker-78576-latest): Opportunities and Challenges in Designing Genomic Sequences

@@ -64,6 +64,8 @@ Designing the pipeline and recommendation strategies from a practical point of v
 
 ## Events & News
 <!-- - **Update Jan. 2021** I am framing my "[big picture](files/big_picture)" of research, talk to me if you are interested! -->
+- **Oct. 2022** I start my research assistant internship in [Vollmer group](https://sebastian.vollmer.ms/) remotely! 
+- **Aug. 2022** I submit my PhD thesis: Adaptive Recommendations with Bandit Feedback!  
 - **Jun. 2022** I give my PhD completion talk at ANU AI+ML+Friends seminar!
 - **Jun. 2022** Our work *Machine learning guided batched design of a bacterial Ribosome Binding Site* is accepted by the ACS Synthetic Biology Journal! 
 - **Dec. 2021** Our work *Gaussian Process Bandits with Aggregated Feedback* (abstract) is accepted to be presented at WiML workshop in NeurPIS2021! Come and talk to us!

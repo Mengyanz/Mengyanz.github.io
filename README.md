@@ -66,7 +66,7 @@ Designing the pipeline and recommendation strategies from a practical point of v
 
 ## Events & News
 <!-- - **Update Jan. 2021** I am framing my "[big picture](files/big_picture)" of research, talk to me if you are interested! -->
-- **Fed. 2023** My PhD thesis is officially accepted by ANU! 
+- **Feb. 2023** My PhD thesis is officially accepted by ANU! 
 - **Oct. 2022** I start my research assistant internship in [Vollmer group](https://sebastian.vollmer.ms/) remotely! 
 - **Aug. 2022** I submit my PhD thesis: Adaptive Recommendations with Bandit Feedback!  
 - **Jun. 2022** I give my PhD completion talk at ANU AI+ML+Friends seminar!

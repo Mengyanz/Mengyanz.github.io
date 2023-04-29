@@ -1,10 +1,11 @@
-<img align='right' src="photos/mengyan.jpg"  width="200"/>    
-[Computational Media Lab](http://cm.cecs.anu.edu.au/), [Research School of Computer Science, Australian National University](https://cs.anu.edu.au/)  
-[Machine Learning Research Group](https://machlearn.gitlab.io/group/), [Data61,CSIRO](https://data61.csiro.au/en/Our-Research/Focus-Areas/AI-and-Machine-Learning)      
-Email: mengyan.zhang@anu.edu.au     
+<img align='right' src="photos/mengyan.jpg"  width="200"/>
+[Department of Computer Science, University of Oxford](https://www.cs.ox.ac.uk/)    
+[Machine Learning and Global Health Network](https://mlglobalhealth.github.io/)  
+Email: mengyan.zhang@cs.ox.ac.uk         
 [[CV](files/MengyanZhang_CV.pdf)|[Google Scholar](https://scholar.google.com/citations?user=Dqot5i0AAAAJ&hl=zh-CN)|[Github](https://github.com/Mengyanz)| [Twitter](https://twitter.com/MengyanZg)|[Linkedin](https://www.linkedin.com/in/mengyan-zhang-a1466a212/)]
 
-I am Mengyan Zhang (张梦妍), recently got my PhD at the Australian National University and Data61, CSIRO (2023.02), under the supervision of Dr. [Cheng Soon Ong](http://www.ong-home.my/index.html), Prof. [Lexing Xie](http://users.cecs.anu.edu.au/~xlx/) and Prof. [Eduardo Eyras](https://jcsmr.anu.edu.au/people/academics/professor-eduardo-eyras). 
+I am Mengyan Zhang (张梦妍), a postdoctoral research associate at the University of Oxford, under the supervision of [Seth Flaxman](https://sethrf.com/).
+Before that, I did my PhD at the Australian National University and Data61, CSIRO (awarded 2023.02), under the supervision of Dr. [Cheng Soon Ong](http://www.ong-home.my/index.html), Prof. [Lexing Xie](http://users.cecs.anu.edu.au/~xlx/) and Prof. [Eduardo Eyras](https://jcsmr.anu.edu.au/people/academics/professor-eduardo-eyras). 
 I'm also short-termly mentored by [Sebastien Bubeck](http://sbubeck.com/) via the [WiML-T Mentoring Program](https://www.wiml-t.org/mentoring-program) in 2021. 
 Prior to that, I obtained my bachelor degree with first-class honour at the Australian National University and the bachelor degree at Shandong University in 2018 ([2 + 2 joint degree program](https://cecs.anu.edu.au/study/meet-our-students/mengyan-zhang)). 
 
@@ -66,6 +67,7 @@ Designing the pipeline and recommendation strategies from a practical point of v
 
 ## Events & News
 <!-- - **Update Jan. 2021** I am framing my "[big picture](files/big_picture)" of research, talk to me if you are interested! -->
+- **Apr. 2023** I officially join the University of Oxford as a postdoc! 
 - **Feb. 2023** My PhD thesis is officially accepted by ANU! 
 - **Oct. 2022** I start my research assistant internship in [Vollmer group](https://sebastian.vollmer.ms/) remotely! 
 - **Aug. 2022** I submit my PhD thesis: Adaptive Recommendations with Bandit Feedback!  

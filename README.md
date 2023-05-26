@@ -15,6 +15,18 @@ Understanding the concentration of measures and adaptive strategies involved.
 (II) Using machine learning algorithms for synthetic biology experimental design. 
 Designing the pipeline and recommendation strategies from a practical point of view.
 
+## Jobs & Education
+- Postdoctoral Researcher (2023.05 -),
+Computational Statistics and Machine Learning, Department of Computer Science, University of Oxford
+- NCI-ANU Associate Training Officer (2023.04-, Casual)
+- Research Assistant (2022.10-2023.04) in RPTU Kaiserslautern and German Research Center for Artificial Intelligence (DFKI), [Vollmer Research Group](https://sebastian.vollmer.ms/)
+- Research Internship ( 2021.10 - 2022.03),
+Social Computing Lab, Microsoft Research Asia, worked on deep contextual
+bandits for news recommendation.
+- Academic Tutor (2019-2021)
+Australian National University, paid teaching position, total working hours: 300h
+
+
 ## Research & Publications/Preprint
 
 - PhD Thesis: Adaptive Recommendations with Bandit Feedback {[ANU Open Research Library](https://openresearch-repository.anu.edu.au/handle/1885/284132)} (supervisors: [Cheng Soon Ong](http://www.ong-home.my/index.html), [Lexing Xie](http://users.cecs.anu.edu.au/~xlx/), [Eduardo Eyras](https://jcsmr.anu.edu.au/people/academics/professor-eduardo-eyras))
@@ -42,6 +54,7 @@ Designing the pipeline and recommendation strategies from a practical point of v
 - Honours project: Classification of historical death and occupation coding  {[thesis](files/Classification_of_historical_death_and_occupation_coding.pdf)} 
   (supervisors: [Peter Christen](https://users.cecs.anu.edu.au/~Peter.Christen/), [Timothy Graham](https://scholar.google.com.au/citations?user=9GG-wWEAAAAJ&hl=en))
   
+
 ## Talks & Presentations
 - **Jun. 2022**: ANU AI+ML+Friends seminar (PhD Completion Talk)  
 [slides](files/mengyan_phd_final.pdf): Adaptive Recommendations with Bandit Feedback
@@ -59,11 +72,18 @@ Designing the pipeline and recommendation strategies from a practical point of v
 [Poster presentation](https://drive.google.com/file/d/1QGGqQIwNnKT-f08onpuhGwTQJs_2lZGm/view?usp=sharing): Quantile Bandits for Best Arms Identification
 - **Dec. 2019**: Collaborative Conference on Computational and Data Intensive Science  
 [Talk](http://www.c3dis.com/3846): Optimized Experimental Design for Translation Initiation using Machine Learning
-## Jobs & Teaching
+
+## Teaching Experience
+- Guest lecturer at [RMIT](https://www.rmit.edu.au/) Bioinformatics and Multi-omics data analysis (BIOL 2524) : introduction to ML and applications in biology (remotely, 3 lectures, May 2023) -- [course materials](https://github.com/Mengyanz/RMIT-NCI-Week/tree/slides)
 - Research Intern at Microsoft Research Asian (MSRA) [Social Computing Lab](https://www.microsoft.com/en-us/research/group/social-computing-beijing/) (2021.10-2022.03).
 - Tutor [Statistical Machine Learning](https://programsandcourses.anu.edu.au/2021/course/COMP8600) (S1 2019, S1 2020, S1 2021)
 - Tutor [Introduction to Machine Learning](https://programsandcourses.anu.edu.au/2021/course/COMP6670) (S2 2020)
 - **(Mar.-Jun. 2021)** co-supervision on Nathan Hu for applying [DNABERT](https://www.biorxiv.org/content/10.1101/2020.09.17.301879v1) to [yeast promotor](https://www.nature.com/articles/s41467-020-15977-4). See details [here](https://github.com/chengsoonong/eheye/tree/master/nathan_project)!
+
+## Visit & Conferences
+- [RLSS 2023](https://rlsummerschool.com/program/), June 26th to July 5th, 2023, Barcelona
+- [BioInference 2023](https://bioinference.github.io/2023/), 8th-9th June 2023, University of Oxford
+- [MLSS 2020](http://mlss.tuebingen.mpg.de/2020/index.html) at the Max Planck Institute for Intelligent Systems, Tübingen, Germany! (Acceptance rate 13.84%.)
 
 ## Events & News
 <!-- - **Update Jan. 2021** I am framing my "[big picture](files/big_picture)" of research, talk to me if you are interested! -->

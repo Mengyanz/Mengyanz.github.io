@@ -4,16 +4,14 @@
 Email: mengyan.zhang@cs.ox.ac.uk         
 [[CV](files/MengyanZhang_CV.pdf)|[Google Scholar](https://scholar.google.com/citations?user=Dqot5i0AAAAJ&hl=zh-CN)|[Github](https://github.com/Mengyanz)| [Twitter](https://twitter.com/MengyanZg)|[Linkedin](https://www.linkedin.com/in/mengyan-zhang-a1466a212/)]
 
-I am Mengyan Zhang (张梦妍), a postdoctoral research associate at the University of Oxford, under the supervision of [Seth Flaxman](https://sethrf.com/).
-Before that, I did my PhD at the Australian National University and Data61, CSIRO (awarded 2023.02), under the supervision of Dr. [Cheng Soon Ong](http://www.ong-home.my/index.html), Prof. [Lexing Xie](http://users.cecs.anu.edu.au/~xlx/) and Prof. [Eduardo Eyras](https://jcsmr.anu.edu.au/people/academics/professor-eduardo-eyras). 
+I am Mengyan Zhang (张梦妍), a postdoctoral researcher at the University of Oxford, working with Prof. [Seth Flaxman](https://sethrf.com/).
+Before that, I received my PhD at the Australian National University, under the supervision of Dr. [Cheng Soon Ong](http://www.ong-home.my/index.html), Prof. [Lexing Xie](http://users.cecs.anu.edu.au/~xlx/) and Prof. [Eduardo Eyras](https://jcsmr.anu.edu.au/people/academics/professor-eduardo-eyras). 
+I was affiliated with Data61, CSIRO and interned at Microsoft Research Asia during my PhD. 
 I'm also short-termly mentored by [Sebastien Bubeck](http://sbubeck.com/) via the [WiML-T Mentoring Program](https://www.wiml-t.org/mentoring-program) in 2021. 
-Prior to that, I obtained my bachelor degree with first-class honour at the Australian National University and the bachelor degree at Shandong University in 2018 ([2 + 2 joint degree program](https://cecs.anu.edu.au/study/meet-our-students/mengyan-zhang)). 
+Prior to that, I obtained my bachelor's degree with first-class honours at the Australian National University and bachelor's degree at Shandong University in 2018 ([2 + 2 joint degree program](https://cecs.anu.edu.au/study/meet-our-students/mengyan-zhang)). 
 
 My research interests are online experimental design in machine learning, including multi-armed bandits and active learning. I work on both theoretical and practical views of experimental design with two goals:
-(I) designing robust algorithms to reflect the preference of agents, for example, risk-aversion. 
-Understanding the concentration of measures and adaptive strategies involved. 
-(II) Using machine learning algorithms for synthetic biology experimental design. 
-Designing the pipeline and recommendation strategies from a practical point of view.
+(I) Designing robust algorithms to handle imperfect feedback and understand causal relationships in sequential decision-making. (II) Designing decision-making algorithms to solve real-world problems in various areas, for example, synthetic biology, global health, survey design, and public policy.
 
 ## Jobs & Education
 - Postdoctoral Researcher (2023.05 -),
@@ -54,6 +52,12 @@ Australian National University, paid teaching position, total working hours: 300
 - Honours project: Classification of historical death and occupation coding  {[thesis](files/Classification_of_historical_death_and_occupation_coding.pdf)} 
   (supervisors: [Peter Christen](https://users.cecs.anu.edu.au/~Peter.Christen/), [Timothy Graham](https://scholar.google.com.au/citations?user=9GG-wWEAAAAJ&hl=en))
   
+## Teaching Experience
+- Guest lecturer at [RMIT](https://www.rmit.edu.au/) Bioinformatics and Multi-omics data analysis (BIOL 2524) : introduction to ML and applications in biology (remotely, 3 lectures, May 2023) -- [course materials](https://github.com/Mengyanz/RMIT-NCI-Week/tree/slides)
+- Research Intern at Microsoft Research Asian (MSRA) [Social Computing Lab](https://www.microsoft.com/en-us/research/group/social-computing-beijing/) (2021.10-2022.03).
+- Tutor [Statistical Machine Learning](https://programsandcourses.anu.edu.au/2021/course/COMP8600) (S1 2019, S1 2020, S1 2021)
+- Tutor [Introduction to Machine Learning](https://programsandcourses.anu.edu.au/2021/course/COMP6670) (S2 2020)
+- **(Mar.-Jun. 2021)** co-supervision on Nathan Hu for applying [DNABERT](https://www.biorxiv.org/content/10.1101/2020.09.17.301879v1) to [yeast promotor](https://www.nature.com/articles/s41467-020-15977-4). See details [here](https://github.com/chengsoonong/eheye/tree/master/nathan_project)!
 
 ## Talks & Presentations
 - **Jun. 2022**: ANU AI+ML+Friends seminar (PhD Completion Talk)  
@@ -73,12 +77,6 @@ Australian National University, paid teaching position, total working hours: 300
 - **Dec. 2019**: Collaborative Conference on Computational and Data Intensive Science  
 [Talk](http://www.c3dis.com/3846): Optimized Experimental Design for Translation Initiation using Machine Learning
 
-## Teaching Experience
-- Guest lecturer at [RMIT](https://www.rmit.edu.au/) Bioinformatics and Multi-omics data analysis (BIOL 2524) : introduction to ML and applications in biology (remotely, 3 lectures, May 2023) -- [course materials](https://github.com/Mengyanz/RMIT-NCI-Week/tree/slides)
-- Research Intern at Microsoft Research Asian (MSRA) [Social Computing Lab](https://www.microsoft.com/en-us/research/group/social-computing-beijing/) (2021.10-2022.03).
-- Tutor [Statistical Machine Learning](https://programsandcourses.anu.edu.au/2021/course/COMP8600) (S1 2019, S1 2020, S1 2021)
-- Tutor [Introduction to Machine Learning](https://programsandcourses.anu.edu.au/2021/course/COMP6670) (S2 2020)
-- **(Mar.-Jun. 2021)** co-supervision on Nathan Hu for applying [DNABERT](https://www.biorxiv.org/content/10.1101/2020.09.17.301879v1) to [yeast promotor](https://www.nature.com/articles/s41467-020-15977-4). See details [here](https://github.com/chengsoonong/eheye/tree/master/nathan_project)!
 
 ## Visit & Conferences
 - [RLSS 2023](https://rlsummerschool.com/program/), June 26th to July 5th, 2023, Barcelona
@@ -87,6 +85,7 @@ Australian National University, paid teaching position, total working hours: 300
 
 ## Events & News
 <!-- - **Update Jan. 2021** I am framing my "[big picture](files/big_picture)" of research, talk to me if you are interested! -->
+- **Jun. 2023** I will attend [RLSS 2023](https://rlsummerschool.com/) in Barcelona! 
 - **Apr. 2023** I officially join the University of Oxford as a postdoc! 
 - **Feb. 2023** My PhD thesis is officially accepted by ANU! 
 - **Oct. 2022** I start my research assistant internship in [Vollmer group](https://sebastian.vollmer.ms/) remotely! 
@@ -102,9 +101,9 @@ Australian National University, paid teaching position, total working hours: 300
 - **Update Mar. 2021** I am collecting good resources for machine learning study, see [here](files/good_resources.md)
 - **Mar.-Jun. 2021** I am co-supervising Nathan Hu on applying [DNABERT](https://www.biorxiv.org/content/10.1101/2020.09.17.301879v1) to [yeast promotor](https://www.nature.com/articles/s41467-020-15977-4). See details [here](https://github.com/chengsoonong/eheye/tree/master/nathan_project)!
 - **Jan.-Jun. 2021**: I am participating in the [WiML-T Mentoring Program](https://www.wiml-t.org/mentoring-program). My paired mentor is [Sebastien Bubeck](http://sbubeck.com/)!
-- **Dec. 2020**: attend [NeurPIS 2020](https://neurips.cc/virtual/2020/protected/cal_main.html) virtually.
-- **Jul. 2020**: attend [ICML 2020](https://icml.cc/virtual/2020) virtually.
+<!-- - **Dec. 2020**: attend [NeurPIS 2020](https://neurips.cc/virtual/2020/protected/cal_main.html) virtually. -->
+<!-- - **Jul. 2020**: attend [ICML 2020](https://icml.cc/virtual/2020) virtually. -->
 - **Apr. 2020**: I am accepted to [MLSS 2020](http://mlss.tuebingen.mpg.de/2020/index.html) at the Max Planck Institute for Intelligent Systems, Tübingen, Germany! (Acceptance rate 13.84%.) Lecture videos and slides can be found [here](http://mlss.tuebingen.mpg.de/2020/schedule.html).
-- **Mar. 2020**: I present our biological sequences design on [C3DIS 2020](http://www.c3dis.com/). See descriptions [here](http://www.c3dis.com/3846).
+<!-- - **Mar. 2020**: I present our biological sequences design on [C3DIS 2020](http://www.c3dis.com/). See descriptions [here](http://www.c3dis.com/3846). -->
 
 

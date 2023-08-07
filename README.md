@@ -13,10 +13,11 @@ Prior to that, I obtained my bachelor's degree with first-class honours at the A
 My research interests are online experimental design in machine learning, including multi-armed bandits and active learning. I work on both theoretical and practical views of experimental design with two goals:
 (I) Designing robust algorithms to handle imperfect feedback and understand causal relationships in sequential decision-making. (II) Designing decision-making algorithms to solve real-world problems in various areas, for example, synthetic biology, global health, survey design, and public policy.
 
-## Jobs & Education
+## Jobs
 - Postdoctoral Researcher (2023.05 -),
 Computational Statistics and Machine Learning, Department of Computer Science, University of Oxford
-- NCI-ANU Associate Training Officer (2023.04-, Casual)
+- NCI-ANU Associate Training Officer (2023.04-2023.07, Casual)
+- Research Assistant (2023.04-2023.06) in the University of Tuebingen, working with [Claire Vernade](https://www.cvernade.com/).
 - Research Assistant (2022.10-2023.04) in RPTU Kaiserslautern and German Research Center for Artificial Intelligence (DFKI), [Vollmer Research Group](https://sebastian.vollmer.ms/)
 - Research Internship ( 2021.10 - 2022.03),
 Social Computing Lab, Microsoft Research Asia, worked on deep contextual
@@ -79,13 +80,19 @@ Australian National University, paid teaching position, total working hours: 300
 
 
 ## Visit & Conferences
-- [RLSS 2023](https://rlsummerschool.com/program/), June 26th to July 5th, 2023, Barcelona
+- Research visit Prof. [Dino Sejdinovic](https://sejdino.github.io/) in the School of Computer and Mathematical Sciences at The University of Adelaide. 
+- [Reinforcement Learning Summer School (RLSS) 2023](https://rlsummerschool.com/program/), June 26th to July 5th, 2023, Barcelona
 - [BioInference 2023](https://bioinference.github.io/2023/), 8th-9th June 2023, University of Oxford
-- [MLSS 2020](http://mlss.tuebingen.mpg.de/2020/index.html) at the Max Planck Institute for Intelligent Systems, Tübingen, Germany! (Acceptance rate 13.84%.)
+- [Machine Learning Summer School (MLSS) 2020](http://mlss.tuebingen.mpg.de/2020/index.html) at the Max Planck Institute for Intelligent Systems, Tübingen, Germany! (Acceptance rate 13.84%.)
+
+<!-- ## Service
+- Reviewer for AISTATS; NeurIPS 2023; AAAI2024 -->
 
 ## Events & News
 <!-- - **Update Jan. 2021** I am framing my "[big picture](files/big_picture)" of research, talk to me if you are interested! -->
-- **Jun. 2023** I will attend [RLSS 2023](https://rlsummerschool.com/) in Barcelona! 
+- **Jul. 2023** I visit Prof. Dino Sejdinovic in The University of Adelaide!
+- **Jul. 2023** I attend my PhD Graduation ceremony in ANU! 
+- **Jun. 2023** I attend [RLSS 2023](https://rlsummerschool.com/) in Barcelona! 
 - **Apr. 2023** I officially join the University of Oxford as a postdoc! 
 - **Feb. 2023** My PhD thesis is officially accepted by ANU! 
 - **Oct. 2022** I start my research assistant internship in [Vollmer group](https://sebastian.vollmer.ms/) remotely! 

@@ -61,6 +61,8 @@ Australian National University, paid teaching position, total working hours: 300
 - **(Mar.-Jun. 2021)** co-supervision on Nathan Hu for applying [DNABERT](https://www.biorxiv.org/content/10.1101/2020.09.17.301879v1) to [yeast promotor](https://www.nature.com/articles/s41467-020-15977-4). See details [here](https://github.com/chengsoonong/eheye/tree/master/nathan_project)!
 
 ## Talks & Presentations
+- **Jul. 2023**: University of Adelaide ADSC Seminar    
+Sequential Decision-making: Theory and Applications
 - **Jun. 2022**: ANU AI+ML+Friends seminar (PhD Completion Talk)  
 [slides](files/mengyan_phd_final.pdf): Adaptive Recommendations with Bandit Feedback
 - **Feb. 2022**:  Microsoft Research Asian Social Computing Group Seminar  

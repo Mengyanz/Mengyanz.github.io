@@ -10,7 +10,7 @@ I was affiliated with Data61, CSIRO and interned at Microsoft Research Asia duri
 I'm also short-termly mentored by [Sebastien Bubeck](http://sbubeck.com/) via the [WiML-T Mentoring Program](https://www.wiml-t.org/mentoring-program) in 2021. 
 Prior to that, I obtained my bachelor's degree with first-class honours at the Australian National University and bachelor's degree at Shandong University in 2018 ([2 + 2 joint degree program](https://cecs.anu.edu.au/study/meet-our-students/mengyan-zhang)). 
 
-My research interests are online experimental design in machine learning, including multi-armed bandits and active learning. I work on both theoretical and practical views of experimental design with two goals:
+My research interests are sequential decision-making in machine learning, including multi-armed bandits and active learning. I work on both theoretical and practical views of experimental design with two goals:
 (I) Designing robust algorithms to handle imperfect feedback and understand causal relationships in sequential decision-making. (II) Designing decision-making algorithms to solve real-world problems in various areas, for example, synthetic biology, global health, survey design, and public policy.
 
 ## Jobs
@@ -55,12 +55,13 @@ Australian National University, paid teaching position, total working hours: 300
   
 ## Teaching Experience
 - Guest lecturer at [RMIT](https://www.rmit.edu.au/) Bioinformatics and Multi-omics data analysis (BIOL 2524) : introduction to ML and applications in biology (remotely, 3 lectures, May 2023) -- [course materials](https://github.com/Mengyanz/RMIT-NCI-Week/tree/slides)
-- Research Intern at Microsoft Research Asian (MSRA) [Social Computing Lab](https://www.microsoft.com/en-us/research/group/social-computing-beijing/) (2021.10-2022.03).
 - Tutor [Statistical Machine Learning](https://programsandcourses.anu.edu.au/2021/course/COMP8600) (S1 2019, S1 2020, S1 2021)
 - Tutor [Introduction to Machine Learning](https://programsandcourses.anu.edu.au/2021/course/COMP6670) (S2 2020)
 - **(Mar.-Jun. 2021)** co-supervision on Nathan Hu for applying [DNABERT](https://www.biorxiv.org/content/10.1101/2020.09.17.301879v1) to [yeast promotor](https://www.nature.com/articles/s41467-020-15977-4). See details [here](https://github.com/chengsoonong/eheye/tree/master/nathan_project)!
 
 ## Talks & Presentations
+- **Nov. 2023**: Bayes@CIRM Workshop, Marseille, France   
+Bayesian optimisation with aggregated feedback
 - **Jul. 2023**: University of Adelaide ADSC Seminar    
 Sequential Decision-making: Theory and Applications
 - **Jun. 2022**: ANU AI+ML+Friends seminar (PhD Completion Talk)  
@@ -82,6 +83,8 @@ Sequential Decision-making: Theory and Applications
 
 
 ## Visit & Conferences
+- [Bayesian Statistic autumn school](https://bayesatcirm.github.io/2023/) held at CIRM, Marseille, France, from 30 October to 3 November 2023.
+
 - Research visit Prof. [Dino Sejdinovic](https://sejdino.github.io/) in the School of Computer and Mathematical Sciences at The University of Adelaide. 
 - [Reinforcement Learning Summer School (RLSS) 2023](https://rlsummerschool.com/program/), June 26th to July 5th, 2023, Barcelona
 - [BioInference 2023](https://bioinference.github.io/2023/), 8th-9th June 2023, University of Oxford
@@ -92,6 +95,7 @@ Sequential Decision-making: Theory and Applications
 
 ## Events & News
 <!-- - **Update Jan. 2021** I am framing my "[big picture](files/big_picture)" of research, talk to me if you are interested! -->
+- **Nov. 2023** I attend Bayes@CIRM in Marseille, France! 
 - **Jul. 2023** I visit Prof. Dino Sejdinovic in The University of Adelaide!
 - **Jul. 2023** I attend my PhD Graduation ceremony in ANU! 
 - **Jun. 2023** I attend [RLSS 2023](https://rlsummerschool.com/) in Barcelona! 

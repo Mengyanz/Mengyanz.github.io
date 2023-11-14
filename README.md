@@ -4,7 +4,7 @@
 Email: mengyan.zhang@cs.ox.ac.uk         
 [[CV](files/MengyanZhang_CV.pdf)|[Google Scholar](https://scholar.google.com/citations?user=Dqot5i0AAAAJ&hl=zh-CN)|[Github](https://github.com/Mengyanz)| [Twitter](https://twitter.com/MengyanZg)|[Linkedin](https://www.linkedin.com/in/mengyan-zhang-a1466a212/)]
 
-I am Mengyan Zhang (张梦妍), a postdoctoral researcher at the University of Oxford, working with Prof. [Seth Flaxman](https://sethrf.com/).
+I am Mengyan Zhang (张梦妍), a postdoctoral researcher at the University of Oxford, working with Prof. [Seth Flaxman](https://sethrf.com/). I am a research member of common room in [Kellogg College](https://www.kellogg.ox.ac.uk/). 
 Before that, I received my PhD at the Australian National University, under the supervision of Dr. [Cheng Soon Ong](http://www.ong-home.my/index.html), Prof. [Lexing Xie](http://users.cecs.anu.edu.au/~xlx/) and Prof. [Eduardo Eyras](https://jcsmr.anu.edu.au/people/academics/professor-eduardo-eyras). 
 I was affiliated with Data61, CSIRO and interned at Microsoft Research Asia during my PhD. 
 I'm also short-termly mentored by [Sebastien Bubeck](http://sbubeck.com/) via the [WiML-T Mentoring Program](https://www.wiml-t.org/mentoring-program) in 2021. 
@@ -53,7 +53,8 @@ Australian National University, paid teaching position, total working hours: 300
 - Honours project: Classification of historical death and occupation coding  {[thesis](files/Classification_of_historical_death_and_occupation_coding.pdf)} 
   (supervisors: [Peter Christen](https://users.cecs.anu.edu.au/~Peter.Christen/), [Timothy Graham](https://scholar.google.com.au/citations?user=9GG-wWEAAAAJ&hl=en))
   
-## Teaching Experience
+## Teaching & Supervision
+- Served as College Advisor in Kellogg College (MT23), providing mentorship to 7 postgraduate students. 
 - Guest lecturer at [RMIT](https://www.rmit.edu.au/) Bioinformatics and Multi-omics data analysis (BIOL 2524) : introduction to ML and applications in biology (remotely, 3 lectures, May 2023) -- [course materials](https://github.com/Mengyanz/RMIT-NCI-Week/tree/slides)
 - Tutor [Statistical Machine Learning](https://programsandcourses.anu.edu.au/2021/course/COMP8600) (S1 2019, S1 2020, S1 2021)
 - Tutor [Introduction to Machine Learning](https://programsandcourses.anu.edu.au/2021/course/COMP6670) (S2 2020)
@@ -92,6 +93,9 @@ Sequential Decision-making: Theory and Applications
 
 <!-- ## Service
 - Reviewer for AISTATS; NeurIPS 2023; AAAI2024 -->
+
+## Service
+- Reviewer for NeurIPS 2023, AAAI2024, ICLR2024.
 
 ## Events & News
 <!-- - **Update Jan. 2021** I am framing my "[big picture](files/big_picture)" of research, talk to me if you are interested! -->

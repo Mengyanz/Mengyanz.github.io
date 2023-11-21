@@ -61,6 +61,8 @@ Australian National University, paid teaching position, total working hours: 300
 - **(Mar.-Jun. 2021)** co-supervision on Nathan Hu for applying [DNABERT](https://www.biorxiv.org/content/10.1101/2020.09.17.301879v1) to [yeast promotor](https://www.nature.com/articles/s41467-020-15977-4). See details [here](https://github.com/chengsoonong/eheye/tree/master/nathan_project)!
 
 ## Talks & Presentations
+- **Nov. 2023**: AIMS seminar, Oxford  
+Sequential decision making in public health
 - **Nov. 2023**: Bayes@CIRM Workshop, Marseille, France   
 Bayesian optimisation with aggregated feedback
 - **Jul. 2023**: University of Adelaide ADSC Seminar    

@@ -61,6 +61,8 @@ Australian National University, paid teaching position, total working hours: 300
 - **(Mar.-Jun. 2021)** co-supervision on Nathan Hu for applying [DNABERT](https://www.biorxiv.org/content/10.1101/2020.09.17.301879v1) to [yeast promotor](https://www.nature.com/articles/s41467-020-15977-4). See details [here](https://github.com/chengsoonong/eheye/tree/master/nathan_project)!
 
 ## Talks & Presentations
+- **Dec. 2023**: Google DeepMind, London   
+Design Choices in Sequential Decision-Making with Bandit Feedback 
 - **Nov. 2023**: AIMS seminar, Oxford  
 Sequential decision making in public health
 - **Nov. 2023**: Bayes@CIRM Workshop, Marseille, France   
@@ -86,9 +88,11 @@ Sequential Decision-making: Theory and Applications
 
 
 ## Visit & Conferences
+- Research visit [Silvia Chiappa](https://csilviavr.github.io/) at Causal Intelligence Team, Google DeepMind, London, 6th Dec 2023. 
+
 - [Bayesian Statistic autumn school](https://bayesatcirm.github.io/2023/) held at CIRM, Marseille, France, from 30 October to 3 November 2023.
 
-- Research visit Prof. [Dino Sejdinovic](https://sejdino.github.io/) in the School of Computer and Mathematical Sciences at The University of Adelaide. 
+- Research visit Prof. [Dino Sejdinovic](https://sejdino.github.io/) in the School of Computer and Mathematical Sciences at The University of Adelaide, July 2023. 
 - [Reinforcement Learning Summer School (RLSS) 2023](https://rlsummerschool.com/program/), June 26th to July 5th, 2023, Barcelona
 - [BioInference 2023](https://bioinference.github.io/2023/), 8th-9th June 2023, University of Oxford
 - [Machine Learning Summer School (MLSS) 2020](http://mlss.tuebingen.mpg.de/2020/index.html) at the Max Planck Institute for Intelligent Systems, Tübingen, Germany! (Acceptance rate 13.84%.)
@@ -101,6 +105,7 @@ Sequential Decision-making: Theory and Applications
 
 ## Events & News
 <!-- - **Update Jan. 2021** I am framing my "[big picture](files/big_picture)" of research, talk to me if you are interested! -->
+- **Dec. 2023** I visited Silvia Chiappa at Google DeepMind (London) and met the causal intelligence team! 
 - **Nov. 2023** I attend Bayes@CIRM in Marseille, France! 
 - **Jul. 2023** I visit Prof. Dino Sejdinovic in The University of Adelaide!
 - **Jul. 2023** I attend my PhD Graduation ceremony in ANU! 

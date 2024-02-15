@@ -1,4 +1,4 @@
-<img align='right' src="photos/Mengyan_portrait.jpg"  width="200"/>
+<img align='right' src="photos/Mengyan_portrait_small.jpg"  width="200"/>
 [Department of Computer Science, University of Oxford](https://www.cs.ox.ac.uk/)    
 [Machine Learning and Global Health Network](https://mlglobalhealth.github.io/)  
 Email: mengyan.zhang@cs.ox.ac.uk         

@@ -1,4 +1,4 @@
-<img align='right' src="photos/mengyan.jpg"  width="200"/>
+<img align='right' src="photos/Mengyan_portrait.jpg"  width="200"/>
 [Department of Computer Science, University of Oxford](https://www.cs.ox.ac.uk/)    
 [Machine Learning and Global Health Network](https://mlglobalhealth.github.io/)  
 Email: mengyan.zhang@cs.ox.ac.uk         
@@ -28,7 +28,7 @@ Australian National University, paid teaching position, total working hours: 300
 
 ## Research & Publications/Preprint
 
-- PhD Thesis: Adaptive Recommendations with Bandit Feedback {[ANU Open Research Library](https://openresearch-repository.anu.edu.au/handle/1885/284132)} (supervisors: [Cheng Soon Ong](http://www.ong-home.my/index.html), [Lexing Xie](http://users.cecs.anu.edu.au/~xlx/), [Eduardo Eyras](https://jcsmr.anu.edu.au/people/academics/professor-eduardo-eyras))
+- PhD Thesis: Adaptive Recommendations with Bandit Feedback {[ANU Open Research Library](https://openresearch-repository.anu.edu.au/handle/1885/284132)} (supervisors: [Cheng Soon Ong](http://www.ong-home.my/index.html), [Lexing Xie](http://users.cecs.anu.edu.au/~xlx/), [Eduardo Eyras](https://jcsmr.anu.edu.au/people/academics/professor-eduardo-eyras)) - [Award: CORE Distinguished Dissertation Award Commendation](https://www.core.edu.au/2024-award-citations)
 
 - Two-Stage Neural Contextual Bandits for Personalised News Recommendation.  
  **Mengyan Zhang**, Thanh Nguyen-Tang, Fangzhao Wu, Zhenyu He, Xing Xie, Cheng Soon Ong. Under Review.  {[pre-print](https://arxiv.org/abs/2206.14648)}
@@ -61,6 +61,8 @@ Australian National University, paid teaching position, total working hours: 300
 - **(Mar.-Jun. 2021)** co-supervision on Nathan Hu for applying [DNABERT](https://www.biorxiv.org/content/10.1101/2020.09.17.301879v1) to [yeast promotor](https://www.nature.com/articles/s41467-020-15977-4). See details [here](https://github.com/chengsoonong/eheye/tree/master/nathan_project)!
 
 ## Talks & Presentations
+- **Feb. 2024**: LAS Group, ETH Zurich, Switzerland  
+[slides](files/visit_ETH_mengyan.pdf): Sequential Decision-Making: Theory and Applications in Public Health
 - **Dec. 2023**: Google DeepMind, London   
 Design Choices in Sequential Decision-Making with Bandit Feedback 
 - **Nov. 2023**: AIMS seminar, Oxford  
@@ -88,6 +90,8 @@ Sequential Decision-making: Theory and Applications
 
 
 ## Visit & Conferences
+- Research visit Andreas Krause at [Learning & Adaptive Systems (LAS) Group](https://las.inf.ethz.ch/people) in ETH Zurich, Switzerland, via [NCCR Automation Fellowship](https://nccr-automation.ch/about/people/mengyan-zhang) (Funded, up to CHF 20,000), Feb - April 2024.
+
 - Research visit [Silvia Chiappa](https://csilviavr.github.io/) at Causal Intelligence Team, Google DeepMind, London, 6th Dec 2023. 
 
 - [Bayesian Statistic autumn school](https://bayesatcirm.github.io/2023/) held at CIRM, Marseille, France, from 30 October to 3 November 2023.

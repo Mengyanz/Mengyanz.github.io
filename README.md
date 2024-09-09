@@ -28,6 +28,8 @@ Australian National University, paid teaching position, total working hours: 300
 
 ## Research & Publications/Preprint
 
+- Optimal disease surveillance with graph-based Active Learning. Joseph L-H Tsui*, Mengyan Zhang*, Prathyush Sambaturu, Simon Busch-Moreno, Marc A Suchard, Oliver G Pybus, Seth Flaxman, Elizaveta Semenova, Moritz UG Kraemera. {[pre-print](https://www.medrxiv.org/content/10.1101/2024.06.21.24309284v1.full.pdf), [epiDAMIK-KDD workshop 2024](https://openreview.net/forum?id=Vxa4b8B601), [poster]()}
+
 - PhD Thesis: Adaptive Recommendations with Bandit Feedback {[ANU Open Research Library](https://openresearch-repository.anu.edu.au/handle/1885/284132)} (supervisors: [Cheng Soon Ong](http://www.ong-home.my/index.html), [Lexing Xie](http://users.cecs.anu.edu.au/~xlx/), [Eduardo Eyras](https://jcsmr.anu.edu.au/people/academics/professor-eduardo-eyras)) - [Award: CORE Distinguished Dissertation Award Commendation](https://www.core.edu.au/2024-award-citations)
 
 - Two-Stage Neural Contextual Bandits for Personalised News Recommendation.  
@@ -52,8 +54,20 @@ Australian National University, paid teaching position, total working hours: 300
 
 - Honours project: Classification of historical death and occupation coding  {[thesis](files/Classification_of_historical_death_and_occupation_coding.pdf)} 
   (supervisors: [Peter Christen](https://users.cecs.anu.edu.au/~Peter.Christen/), [Timothy Graham](https://scholar.google.com.au/citations?user=9GG-wWEAAAAJ&hl=en))
+
+
+## Awards & Funding & Scholarship
+- 2024 Award for Excellence at Oxford [top 10%]
+- 2024 CORE Distinguished Dissertation Award Commendation (PhD thesis)
+- 2024 NCCR Automation fellowship (Visiting ETH, up to CHF 18k)
+- 2019 Data61 Top-up Postgraduate Research Scholarship
+- 2018 PhD Scholarship of ANU
+- 2018 ANU HDR Fee Remission Merit Scholarship
+- 2017 Paul Thistlewatte Memorial Honours Year Scholarship of ANU 
+- 2015-2016 National Scholarship (China)
   
 ## Teaching & Supervision
+<!-- - Students: Sumantrack, Marek,  -->
 - Served as College Advisor in Kellogg College (MT23), providing mentorship to 7 postgraduate students. 
 - Guest lecturer at [RMIT](https://www.rmit.edu.au/) Bioinformatics and Multi-omics data analysis (BIOL 2524) : introduction to ML and applications in biology (remotely, 3 lectures, May 2023) -- [course materials](https://github.com/Mengyanz/RMIT-NCI-Week/tree/slides)
 - Tutor [Statistical Machine Learning](https://programsandcourses.anu.edu.au/2021/course/COMP8600) (S1 2019, S1 2020, S1 2021)

@@ -28,10 +28,10 @@ Australian National University, paid teaching position, total working hours: 300
 
 ## Research & Publications/Preprint
 
-- Optimal disease surveillance with graph-based Active Learning. Joseph L-H Tsui$^1$, **Mengyan Zhang**$^1$,  Prathyush Sambaturu, Simon Busch-Moreno, Marc A Suchard, Oliver G Pybus, Seth Flaxman, Elizaveta Semenova, Moritz UG Kraemera. {[pre-print](https://www.medrxiv.org/content/10.1101/2024.06.21.24309284v1.full.pdf), [epiDAMIK-KDD workshop 2024](https://openreview.net/forum?id=Vxa4b8B601), [poster]()}
+- Optimal disease surveillance with graph-based Active Learning. Joseph L-H Tsui<sup> * </sup>, **Mengyan Zhang**<sup> * </sup>,  Prathyush Sambaturu, Simon Busch-Moreno, Marc A Suchard, Oliver G Pybus, Seth Flaxman, Elizaveta Semenova, Moritz UG Kraemera. {[pre-print](https://www.medrxiv.org/content/10.1101/2024.06.21.24309284v1.full.pdf), [epiDAMIK-KDD workshop 2024](https://openreview.net/forum?id=Vxa4b8B601), [poster]()}
 
 - Graph Agnostic Causal Bayesian Optimisation.
-Sumantrak Mukherjee$^1$, **Mengyan Zhang**$^1$, Seth Flaxman, Sebastian Josef Vollmer (2024). Under Review. 
+Sumantrak Mukherjee<sup> * </sup>, **Mengyan Zhang**<sup> * </sup>, Seth Flaxman, Sebastian Josef Vollmer (2024). Under Review. 
 
 - PhD Thesis: Adaptive Recommendations with Bandit Feedback {[ANU Open Research Library](https://openresearch-repository.anu.edu.au/handle/1885/284132)} (supervisors: [Cheng Soon Ong](http://www.ong-home.my/index.html), [Lexing Xie](http://users.cecs.anu.edu.au/~xlx/), [Eduardo Eyras](https://jcsmr.anu.edu.au/people/academics/professor-eduardo-eyras)) - [Award: CORE Distinguished Dissertation Award Commendation](https://www.core.edu.au/2024-award-citations)
 

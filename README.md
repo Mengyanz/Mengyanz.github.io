@@ -2,12 +2,12 @@
 [Department of Computer Science, University of Oxford](https://www.cs.ox.ac.uk/)    
 [Machine Learning and Global Health Network](https://mlglobalhealth.github.io/)  
 Email: mengyan.zhang@cs.ox.ac.uk         
-[[CV](files/MengyanZhang_CV.pdf)|[Google Scholar](https://scholar.google.com/citations?user=Dqot5i0AAAAJ&hl=zh-CN)|[Github](https://github.com/Mengyanz)| [Twitter](https://twitter.com/MengyanZg)|[Linkedin](https://www.linkedin.com/in/mengyan-zhang-a1466a212/)]
+[[CV](files/MengyanZhang_CV_full.pdf)|[Google Scholar](https://scholar.google.com/citations?user=Dqot5i0AAAAJ&hl=zh-CN)|[Github](https://github.com/Mengyanz)| [Twitter](https://twitter.com/MengyanZg)|[Linkedin](https://www.linkedin.com/in/mengyan-zhang-a1466a212/)]
 
 I am Mengyan Zhang (张梦妍), a postdoctoral researcher at the University of Oxford, working with Prof. [Seth Flaxman](https://sethrf.com/). I am a research member of common room in [Kellogg College](https://www.kellogg.ox.ac.uk/). 
 Before that, I received my PhD at the Australian National University, under the supervision of Dr. [Cheng Soon Ong](http://www.ong-home.my/index.html), Prof. [Lexing Xie](http://users.cecs.anu.edu.au/~xlx/) and Prof. [Eduardo Eyras](https://jcsmr.anu.edu.au/people/academics/professor-eduardo-eyras). 
 I was affiliated with Data61, CSIRO and interned at Microsoft Research Asia during my PhD. 
-I'm also short-termly mentored by [Sebastien Bubeck](http://sbubeck.com/) via the [WiML-T Mentoring Program](https://www.wiml-t.org/mentoring-program) in 2021. 
+<!-- I'm also short-termly mentored by [Sebastien Bubeck](http://sbubeck.com/) via the [WiML-T Mentoring Program](https://www.wiml-t.org/mentoring-program) in 2021.  -->
 Prior to that, I obtained my bachelor's degree with first-class honours at the Australian National University and bachelor's degree at Shandong University in 2018 ([2 + 2 joint degree program](https://cecs.anu.edu.au/study/meet-our-students/mengyan-zhang)). 
 
 My research interests are sequential decision-making in machine learning, including multi-armed bandits and active learning. I work on both theoretical and practical views of experimental design with two goals:
@@ -28,10 +28,12 @@ Australian National University, paid teaching position, total working hours: 300
 
 ## Research & Publications/Preprint
 
-- Optimal disease surveillance with graph-based Active Learning. Joseph L-H Tsui<sup> * </sup>, **Mengyan Zhang**<sup> * </sup>,  Prathyush Sambaturu, Simon Busch-Moreno, Marc A Suchard, Oliver G Pybus, Seth Flaxman, Elizaveta Semenova, Moritz UG Kraemera. {[pre-print](https://www.medrxiv.org/content/10.1101/2024.06.21.24309284v1.full.pdf), [epiDAMIK-KDD workshop 2024](https://openreview.net/forum?id=Vxa4b8B601), [poster]()}
+- Optimal disease surveillance with graph-based Active Learning. Joseph L-H Tsui<sup> * </sup>, **Mengyan Zhang**<sup> * </sup>,  Prathyush Sambaturu, Simon Busch-Moreno, Marc A Suchard, Oliver G Pybus, Seth Flaxman, Elizaveta Semenova, Moritz UG Kraemera. {[PNAS](https://www.pnas.org/doi/full/10.1073/pnas.2412424121), [epiDAMIK-KDD workshop 2024](https://openreview.net/forum?id=Vxa4b8B601)}
+
+- Indirect Query Bayesian Optimization with Integrated Feedback. **Mengyan Zhang**, Shahine Bouabid, Cheng Soon Ong, Seth Flaxman, Dino Sejdinovic (2024). Under Review.
 
 - Graph Agnostic Causal Bayesian Optimisation.
-Sumantrak Mukherjee<sup> * </sup>, **Mengyan Zhang**<sup> * </sup>, Seth Flaxman, Sebastian Josef Vollmer (2024). Under Review. 
+Sumantrak Mukherjee<sup> * </sup>, **Mengyan Zhang**<sup> * </sup>, Seth Flaxman, Sebastian Josef Vollmer (2024).  NeurPIS Bayesian Decision-making and Uncertainty Workshop.
 
 - PhD Thesis: Adaptive Recommendations with Bandit Feedback {[ANU Open Research Library](https://openresearch-repository.anu.edu.au/handle/1885/284132)} (supervisors: [Cheng Soon Ong](http://www.ong-home.my/index.html), [Lexing Xie](http://users.cecs.anu.edu.au/~xlx/), [Eduardo Eyras](https://jcsmr.anu.edu.au/people/academics/professor-eduardo-eyras)) - [Award: CORE Distinguished Dissertation Award Commendation](https://www.core.edu.au/2024-award-citations)
 
@@ -78,6 +80,8 @@ Sumantrak Mukherjee<sup> * </sup>, **Mengyan Zhang**<sup> * </sup>, Seth Flaxman
 - **(Mar.-Jun. 2021)** co-supervision on Nathan Hu for applying [DNABERT](https://www.biorxiv.org/content/10.1101/2020.09.17.301879v1) to [yeast promotor](https://www.nature.com/articles/s41467-020-15977-4). See details [here](https://github.com/chengsoonong/eheye/tree/master/nathan_project)!
 
 ## Talks & Presentations
+- **Dec. 2025** CFECMStatistics Conference, King's College London, London, UK  
+Sequential decision-making in public health.
 - **Feb. 2024**: LAS Group, ETH Zurich, Switzerland  
 [slides](files/visit_ETH_mengyan.pdf): Sequential Decision-Making: Theory and Applications in Public Health
 - **Dec. 2023**: Google DeepMind, London   
@@ -122,7 +126,7 @@ Sequential Decision-making: Theory and Applications
 - Reviewer for AISTATS; NeurIPS 2023; AAAI2024 -->
 
 ## Service
-- Reviewer for NeurIPS 2023, AAAI2024, ICLR2024.
+- Reviewer for NeurIPS 2023, AAAI2024, ICLR2024, ICML2025.
 
 ## Events & News
 <!-- - **Update Jan. 2021** I am framing my "[big picture](files/big_picture)" of research, talk to me if you are interested! -->

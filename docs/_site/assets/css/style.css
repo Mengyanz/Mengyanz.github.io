@@ -2891,3 +2891,11 @@ pre { margin-top: 0; margin-bottom: 0; font-family: "SFMono-Regular", Consolas, 
   margin: 0 auto;   /* Keeps text centered */
   padding: 0 20px;  /* Adds a bit of side space for readability */
 }
+
+/* Hide the GitHub Pages attribution footer */
+.footer,
+footer,
+.credits,
+#footer {
+  display: none !important;
+}

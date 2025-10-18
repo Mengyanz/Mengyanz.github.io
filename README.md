@@ -1,20 +1,24 @@
 <img align='right' src="photos/Mengyan_portrait_small.jpg"  width="200"/>
-[Department of Computer Science, University of Oxford](https://www.cs.ox.ac.uk/)    
+[Lecturer (Assistant Professor), School of Computer Science, University of Bristol](https://www.bristol.ac.uk/science-engineering/schools/computer-science/)
+[Visiting Researcher, Department of Computer Science, University of Oxford](https://www.cs.ox.ac.uk/)    
 [Machine Learning and Global Health Network](https://mlglobalhealth.github.io/)  
-Email: mengyan.zhang@cs.ox.ac.uk         
+Email: mengyan.zhang@bristol.ac.uk | mengyan.zh@outlook.com       
 [[CV](files/MengyanZhang_CV_full.pdf)|[Google Scholar](https://scholar.google.com/citations?user=Dqot5i0AAAAJ&hl=zh-CN)|[Github](https://github.com/Mengyanz)| [Twitter](https://twitter.com/MengyanZg)|[Linkedin](https://www.linkedin.com/in/mengyan-zhang-a1466a212/)]
 
-I am Mengyan Zhang (张梦妍), a postdoctoral researcher at the University of Oxford, working with Prof. [Seth Flaxman](https://sethrf.com/). I am a research member of common room in [Kellogg College](https://www.kellogg.ox.ac.uk/). 
-Before that, I received my PhD at the Australian National University, under the supervision of Dr. [Cheng Soon Ong](http://www.ong-home.my/index.html), Prof. [Lexing Xie](http://users.cecs.anu.edu.au/~xlx/) and Prof. [Eduardo Eyras](https://jcsmr.anu.edu.au/people/academics/professor-eduardo-eyras). 
-I was affiliated with Data61, CSIRO and interned at Microsoft Research Asia during my PhD. 
-<!-- I'm also short-termly mentored by [Sebastien Bubeck](http://sbubeck.com/) via the [WiML-T Mentoring Program](https://www.wiml-t.org/mentoring-program) in 2021.  -->
-Prior to that, I obtained my bachelor's degree with first-class honours at the Australian National University and bachelor's degree at Shandong University in 2018 ([2 + 2 joint degree program](https://cecs.anu.edu.au/study/meet-our-students/mengyan-zhang)). 
+I am Mengyan Zhang (张梦妍), a lecturer (Assistant Professor) at the university of Bristol.
+Before that, I was a postdoctoral researcher at the University of Oxford, working with Prof. [Seth Flaxman](https://sethrf.com/). 
+I received my PhD at the Australian National University in 2023, under the supervision of Dr. [Cheng Soon Ong](http://www.ong-home.my/index.html), Prof. [Lexing Xie](http://users.cecs.anu.edu.au/~xlx/) and Prof. [Eduardo Eyras](https://jcsmr.anu.edu.au/people/academics/professor-eduardo-eyras). 
+During my PhD, I was affiliated with Data61, CSIRO and interned at Microsoft Research Asia. 
+I obtained my bachelor's degree with first-class honours at the Australian National University and bachelor's degree at Shandong University.
 
-My research interests are sequential decision-making in machine learning, including multi-armed bandits and active learning. I work on both theoretical and practical views of experimental design with two goals:
-(I) Designing robust algorithms to handle imperfect feedback and understand causal relationships in sequential decision-making. (II) Designing decision-making algorithms to solve real-world problems in various areas, for example, synthetic biology, global health, survey design, and public policy.
+My research interests are sequential decision-making in machine learning, including Reinforcement learning, Bayesian optimisation and active learning. I work on both theoretical and practical views of experimental design with two goals:
+(I) Designing robust algorithms to handle imperfect feedback and understand causal relationships in sequential decision-making. (II) Designing decision-making algorithms to solve real-world problems in various areas, for example, synthetic biology, disease surveillance, survey design, and public policy.
 
-## Jobs
-- Postdoctoral Researcher (2023.05 -),
+## Hiring
+I’m looking for highly motivated Ph.D. students who are excited about working on sequential decision making and its applications in health. A strong background in machine learning, statistics, or a related field would be ideal. If this sounds like you, I’d love to hear from you — please send me your CV, transcript, and a short paragraph about your research experience and interests.
+
+<!-- ## Jobs
+- Postdoctoral Researcher (2023.05 - 2025.09),
 Computational Statistics and Machine Learning, Department of Computer Science, University of Oxford
 - NCI-ANU Associate Training Officer (2023.04-2023.07, Casual)
 - Research Assistant (2023.04-2023.06) in the University of Tuebingen, working with [Claire Vernade](https://www.cvernade.com/).
@@ -23,16 +27,22 @@ Computational Statistics and Machine Learning, Department of Computer Science, U
 Social Computing Lab, Microsoft Research Asia, worked on deep contextual
 bandits for news recommendation.
 - Academic Tutor (2019-2021)
-Australian National University, paid teaching position, total working hours: 300h
+Australian National University, paid teaching position, total working hours: 300h -->
 
 
 ## Research & Publications/Preprint
 
-- Optimal disease surveillance with graph-based Active Learning. Joseph L-H Tsui<sup> * </sup>, **Mengyan Zhang**<sup> * </sup>,  Prathyush Sambaturu, Simon Busch-Moreno, Marc A Suchard, Oliver G Pybus, Seth Flaxman, Elizaveta Semenova, Moritz UG Kraemera. {[PNAS](https://www.pnas.org/doi/full/10.1073/pnas.2412424121), [epiDAMIK-KDD workshop 2024](https://openreview.net/forum?id=Vxa4b8B601)}
-
-- Indirect Query Bayesian Optimization with Integrated Feedback. **Mengyan Zhang**, Shahine Bouabid, Cheng Soon Ong, Seth Flaxman, Dino Sejdinovic (2024). Under Review.
-
-- Graph Agnostic Causal Bayesian Optimisation.
+- Artificial intelligence for modelling infectious disease epidemics.  
+Moritz U. G. Kraemer, Joseph L.-H. Tsui, Serina Y. Chang, Spyros Lytras, Mark P. Khurana,
+Samantha Vanderslott, Sumali Bajaj, Neil Scheidwasser, Jacob Liam Curran-Sebastian, Elizaveta
+Semenova, **Mengyan Zhang** et al (2025). {[Nature](https://www.nature.com/articles/s41586-024-08564-w)}
+- Indirect Query Bayesian Optimization with Integrated Feedback.  
+**Mengyan Zhang**, Shahine Bouabid, Cheng Soon Ong, Seth Flaxman, Dino Sejdinovic (2025). {[pre-print](https://arxiv.org/abs/2412.13559)}
+- Scalable Spatiotemporal Inference with Biased Scan Attention Transformer Neural Processes.  
+Daniel Jenson, Jhonathan Navott, Piotr Grynfelder, **Mengyan Zhang**, Makkunda Sharma, Elizaveta Semenova, Seth Flaxman. {[pre-print](https://arxiv.org/pdf/2506.09163?)}
+- Optimal disease surveillance with graph-based Active Learning.  
+Joseph L-H Tsui<sup> * </sup>, **Mengyan Zhang**<sup> * </sup>,  Prathyush Sambaturu, Simon Busch-Moreno, Marc A Suchard, Oliver G Pybus, Seth Flaxman, Elizaveta Semenova, Moritz UG Kraemera. {[PNAS](https://www.pnas.org/doi/full/10.1073/pnas.2412424121), [epiDAMIK-KDD workshop 2024](https://openreview.net/forum?id=Vxa4b8B601)}
+- Graph Agnostic Causal Bayesian Optimisation.  
 Sumantrak Mukherjee<sup> * </sup>, **Mengyan Zhang**<sup> * </sup>, Seth Flaxman, Sebastian Josef Vollmer (2024).  NeurPIS Bayesian Decision-making and Uncertainty Workshop.
 
 - PhD Thesis: Adaptive Recommendations with Bandit Feedback {[ANU Open Research Library](https://openresearch-repository.anu.edu.au/handle/1885/284132)} (supervisors: [Cheng Soon Ong](http://www.ong-home.my/index.html), [Lexing Xie](http://users.cecs.anu.edu.au/~xlx/), [Eduardo Eyras](https://jcsmr.anu.edu.au/people/academics/professor-eduardo-eyras)) - [Award: CORE Distinguished Dissertation Award Commendation](https://www.core.edu.au/2024-award-citations)
@@ -79,6 +89,9 @@ Sumantrak Mukherjee<sup> * </sup>, **Mengyan Zhang**<sup> * </sup>, Seth Flaxman
 - Tutor [Introduction to Machine Learning](https://programsandcourses.anu.edu.au/2021/course/COMP6670) (S2 2020)
 - **(Mar.-Jun. 2021)** co-supervision on Nathan Hu for applying [DNABERT](https://www.biorxiv.org/content/10.1101/2020.09.17.301879v1) to [yeast promotor](https://www.nature.com/articles/s41467-020-15977-4). See details [here](https://github.com/chengsoonong/eheye/tree/master/nathan_project)!
 
+## Service
+- Reviewer for NeurIPS 2023, AAAI2024, ICLR2024, ICML2025.
+
 ## Talks & Presentations
 - **Dec. 2025** CFECMStatistics Conference, King's College London, London, UK  
 Sequential decision-making in public health.
@@ -124,35 +137,3 @@ Sequential Decision-making: Theory and Applications
 
 <!-- ## Service
 - Reviewer for AISTATS; NeurIPS 2023; AAAI2024 -->
-
-## Service
-- Reviewer for NeurIPS 2023, AAAI2024, ICLR2024, ICML2025.
-
-## Events & News
-<!-- - **Update Jan. 2021** I am framing my "[big picture](files/big_picture)" of research, talk to me if you are interested! -->
-- **Dec. 2023** I visited Silvia Chiappa at Google DeepMind (London) and met the causal intelligence team! 
-- **Nov. 2023** I attend Bayes@CIRM in Marseille, France! 
-- **Jul. 2023** I visit Prof. Dino Sejdinovic in The University of Adelaide!
-- **Jul. 2023** I attend my PhD Graduation ceremony in ANU! 
-- **Jun. 2023** I attend [RLSS 2023](https://rlsummerschool.com/) in Barcelona! 
-- **Apr. 2023** I officially join the University of Oxford as a postdoc! 
-- **Feb. 2023** My PhD thesis is officially accepted by ANU! 
-- **Oct. 2022** I start my research assistant internship in [Vollmer group](https://sebastian.vollmer.ms/) remotely! 
-- **Aug. 2022** I submit my PhD thesis: Adaptive Recommendations with Bandit Feedback!  
-- **Jun. 2022** I give my PhD completion talk at ANU AI+ML+Friends seminar!
-- **Jun. 2022** Our work *Machine learning guided batched design of a bacterial Ribosome Binding Site* is accepted by the ACS Synthetic Biology Journal! 
-- **Dec. 2021** Our work *Gaussian Process Bandits with Aggregated Feedback* (abstract) is accepted to be presented at WiML workshop in NeurPIS2021! Come and talk to us!
-- **Dec. 2021** Our work *Gaussian Process Bandits with Aggregated Feedback* is accepted by AAAI2022! (Acceptance rate 15%)
-- **Step. 2021** I start my internship at Microsoft Research Asian (MSRA) in [Social Computing team](https://www.microsoft.com/en-us/research/group/social-computing-beijing/#!overview), mentored by [Fangzhao Wu](https://www.microsoft.com/en-us/research/people/fangzwu/). 
-- **June. 2021** Our work *Opportunities and Challenges in Designing Genomic Sequences* is accepted in the [2021 ICML Workshop on Computational Biology](https://icml-compbio.github.io) as spotlight talk! Come to talk to us in our poster session!
-- **May. 2021** Our work *Machine Learning guided workflow for Ribosome Binding Site engineering* got accepted in Synthetic Biology: Engineering, Evolution & Design (SEED) 2021 Conference for oral abstract! [Maciej Holowko](https://people.csiro.au/H/M/Maciej-Holowko) will present, see you there!
-- **May. 2021** Our paper *Quantile Bandits for Best Arms Identification* got accepted for ICML 2021! See you online!
-- **Update Mar. 2021** I am collecting good resources for machine learning study, see [here](files/good_resources.md)
-- **Mar.-Jun. 2021** I am co-supervising Nathan Hu on applying [DNABERT](https://www.biorxiv.org/content/10.1101/2020.09.17.301879v1) to [yeast promotor](https://www.nature.com/articles/s41467-020-15977-4). See details [here](https://github.com/chengsoonong/eheye/tree/master/nathan_project)!
-- **Jan.-Jun. 2021**: I am participating in the [WiML-T Mentoring Program](https://www.wiml-t.org/mentoring-program). My paired mentor is [Sebastien Bubeck](http://sbubeck.com/)!
-<!-- - **Dec. 2020**: attend [NeurPIS 2020](https://neurips.cc/virtual/2020/protected/cal_main.html) virtually. -->
-<!-- - **Jul. 2020**: attend [ICML 2020](https://icml.cc/virtual/2020) virtually. -->
-- **Apr. 2020**: I am accepted to [MLSS 2020](http://mlss.tuebingen.mpg.de/2020/index.html) at the Max Planck Institute for Intelligent Systems, Tübingen, Germany! (Acceptance rate 13.84%.) Lecture videos and slides can be found [here](http://mlss.tuebingen.mpg.de/2020/schedule.html).
-<!-- - **Mar. 2020**: I present our biological sequences design on [C3DIS 2020](http://www.c3dis.com/). See descriptions [here](http://www.c3dis.com/3846). -->
-
-

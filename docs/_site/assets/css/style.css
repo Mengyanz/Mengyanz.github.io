@@ -2881,3 +2881,13 @@ pre { margin-top: 0; margin-bottom: 0; font-family: "SFMono-Regular", Consolas, 
 .highlight .w { color: #bbbbbb; }
 
 .highlight { background-color: #f8f8f8; }
+
+/* --- Custom wider content area --- */
+.page-content,
+.markdown-body,
+.main-content,
+.container {
+  max-width: 900px; /* Increase this number for even wider text */
+  margin: 0 auto;   /* Keeps text centered */
+  padding: 0 20px;  /* Adds a bit of side space for readability */
+}

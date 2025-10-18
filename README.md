@@ -1,7 +1,7 @@
 <img align='right' src="photos/Mengyan_portrait_small.jpg"  width="200"/>
-[Lecturer (Assistant Professor), School of Computer Science, University of Bristol](https://www.bristol.ac.uk/science-engineering/schools/computer-science/)
-[Visiting Researcher, Department of Computer Science, University of Oxford](https://www.cs.ox.ac.uk/)    
-[Machine Learning and Global Health Network](https://mlglobalhealth.github.io/)  
+Lecturer (Assistant Professor), [School of Computer Science, University of Bristol](https://www.bristol.ac.uk/science-engineering/schools/computer-science/);
+Visiting Researcher, [Department of Computer Science, University of Oxford](https://www.cs.ox.ac.uk/); 
+Member of [Machine Learning and Global Health Network](https://mlglobalhealth.github.io/).
 Email: mengyan.zhang@bristol.ac.uk | mengyan.zh@outlook.com       
 [[CV](files/MengyanZhang_CV_full.pdf)|[Google Scholar](https://scholar.google.com/citations?user=Dqot5i0AAAAJ&hl=zh-CN)|[Github](https://github.com/Mengyanz)| [Twitter](https://twitter.com/MengyanZg)|[Linkedin](https://www.linkedin.com/in/mengyan-zhang-a1466a212/)]
 
@@ -36,12 +36,17 @@ Australian National University, paid teaching position, total working hours: 300
 Moritz U. G. Kraemer, Joseph L.-H. Tsui, Serina Y. Chang, Spyros Lytras, Mark P. Khurana,
 Samantha Vanderslott, Sumali Bajaj, Neil Scheidwasser, Jacob Liam Curran-Sebastian, Elizaveta
 Semenova, **Mengyan Zhang** et al (2025). {[Nature](https://www.nature.com/articles/s41586-024-08564-w)}
+
 - Indirect Query Bayesian Optimization with Integrated Feedback.  
 **Mengyan Zhang**, Shahine Bouabid, Cheng Soon Ong, Seth Flaxman, Dino Sejdinovic (2025). {[pre-print](https://arxiv.org/abs/2412.13559)}
-- Scalable Spatiotemporal Inference with Biased Scan Attention Transformer Neural Processes.  
+
+- Scalable Spatiotempora
+l Inference with Biased Scan Attention Transformer Neural Processes.  
 Daniel Jenson, Jhonathan Navott, Piotr Grynfelder, **Mengyan Zhang**, Makkunda Sharma, Elizaveta Semenova, Seth Flaxman. {[pre-print](https://arxiv.org/pdf/2506.09163?)}
+
 - Optimal disease surveillance with graph-based Active Learning.  
 Joseph L-H Tsui<sup> * </sup>, **Mengyan Zhang**<sup> * </sup>,  Prathyush Sambaturu, Simon Busch-Moreno, Marc A Suchard, Oliver G Pybus, Seth Flaxman, Elizaveta Semenova, Moritz UG Kraemera. {[PNAS](https://www.pnas.org/doi/full/10.1073/pnas.2412424121), [epiDAMIK-KDD workshop 2024](https://openreview.net/forum?id=Vxa4b8B601)}
+
 - Graph Agnostic Causal Bayesian Optimisation.  
 Sumantrak Mukherjee<sup> * </sup>, **Mengyan Zhang**<sup> * </sup>, Seth Flaxman, Sebastian Josef Vollmer (2024).  NeurPIS Bayesian Decision-making and Uncertainty Workshop.
 

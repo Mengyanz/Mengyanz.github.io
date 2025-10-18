@@ -1,13 +1,9 @@
 <img align='right' src="photos/Mengyan_portrait_small.jpg"  width="200"/>
 
 Lecturer (Assistant Professor), [School of Computer Science, University of Bristol](https://www.bristol.ac.uk/science-engineering/schools/computer-science/);  
-
-Visiting Researcher, [Department of Computer Science, University of Oxford](https://www.cs.ox.ac.uk/); 
-
-Member of [Machine Learning and Global Health Network](https://mlglobalhealth.github.io/).
-
-Email: mengyan.zhang@bristol.ac.uk | mengyan.zh@outlook.com 
-      
+Visiting Researcher, [Department of Computer Science, University of Oxford](https://www.cs.ox.ac.uk/);  
+Member of [Machine Learning and Global Health Network](https://mlglobalhealth.github.io/).   
+Email: mengyan.zhang@bristol.ac.uk | mengyan.zh@outlook.com    
 [[CV](files/MengyanZhang_CV_full.pdf)|[Google Scholar](https://scholar.google.com/citations?user=Dqot5i0AAAAJ&hl=zh-CN)|[Github](https://github.com/Mengyanz)| [Twitter](https://twitter.com/MengyanZg)|[Linkedin](https://www.linkedin.com/in/mengyan-zhang-a1466a212/)]
 
 I am Mengyan Zhang (张梦妍), a lecturer (Assistant Professor) at the university of Bristol.

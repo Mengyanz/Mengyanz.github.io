@@ -15,7 +15,7 @@ I obtained my bachelor's degree with first-class honours at the Australian Natio
 My research interests are sequential decision-making in machine learning, including Reinforcement learning, Bayesian optimisation and active learning. I work on both theoretical and practical views of experimental design with two goals:
 (I) Designing robust algorithms to handle imperfect feedback and understand causal relationships in sequential decision-making. (II) Designing decision-making algorithms to solve real-world problems in various areas, for example, synthetic biology, disease surveillance, survey design, and public policy.
 
-## Hiring
+## Hiring - See [Vaccines](/vaccines/)
 I’m looking for highly motivated Ph.D. students who are excited about working on sequential decision making and its applications in health. A strong background in machine learning, statistics, or a related field would be ideal. If this sounds like you, I’d love to hear from you — please send me your CV, transcript, and a short paragraph about your research experience and interests.
 
 <!-- ## Jobs

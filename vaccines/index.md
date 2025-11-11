@@ -6,7 +6,7 @@ permalink: /vaccines/
 
 # Research Directions
 
-### 🩺 AI in Science: Sequential Decision Making for Infectious Disease
+### 🩺 AI for Science: Sequential Decision Making for Infectious Disease
 Our research in this area focuses on **adaptive AI systems** that can learn and act in complex scientific and epidemiological settings.  
 Current directions include:
 
@@ -19,7 +19,7 @@ Current directions include:
 
 ### 🎯 Causal Decision Making in Human Health
 We explore how causal inference and decision theory can be combined to design data-driven, interpretable, and personalized interventions.  
-Wearable technologies such as smartwatches provide a promising testbed for causal decision-making frameworks, for example: [Smartwatch-based intervention for smoking cessation](https://www.bristol.ac.uk/psychology/research/brain/targ/research/nicotine-and-tobacco/Smartwatch-based-intervention/)  
+Wearable technologies such as [smartwatches](https://www.bristol.ac.uk/psychology/research/brain/targ/research/nicotine-and-tobacco/Smartwatch-based-intervention/) provide a promising testbed for causal decision-making frameworks.
 
 ---
 

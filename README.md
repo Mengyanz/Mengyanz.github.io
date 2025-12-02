@@ -15,8 +15,8 @@ I obtained my bachelor's degree with first-class honours at the Australian Natio
 My research interests are sequential decision-making in machine learning, including Reinforcement learning, Bayesian optimisation and active learning. I work on both theoretical and practical views of experimental design with two goals:
 (I) Designing robust algorithms to handle imperfect feedback and understand causal relationships in sequential decision-making. (II) Designing decision-making algorithms to solve real-world problems in various areas, for example, synthetic biology, disease surveillance, survey design, and public policy.
 
-## Hiring - See [Vaccines](/vaccines/)
-I’m looking for highly motivated Ph.D. students who are excited about working on sequential decision making and its applications in health. A strong background in machine learning, statistics, or a related field would be ideal. If this sounds like you, I’d love to hear from you — please send me your CV, transcript, and a short paragraph about your research experience and interests.
+## Hiring - See [Research Directions](/ResearchDirections/)
+I’m looking for highly motivated Ph.D. students who are excited about working on sequential decision making and its applications in health. A strong background in machine learning, statistics, or a related field would be ideal. If this sounds like you, I’d love to hear from you — please send me your CV, transcript, research proposal and a short paragraph about your research experience and interests.
 
 <!-- ## Jobs
 - Postdoctoral Researcher (2023.05 - 2025.09),
@@ -41,8 +41,7 @@ Semenova, **Mengyan Zhang** et al (2025). {[Nature](https://www.nature.com/artic
 - Indirect Query Bayesian Optimization with Integrated Feedback.  
 **Mengyan Zhang**, Shahine Bouabid, Cheng Soon Ong, Seth Flaxman, Dino Sejdinovic (2025). {[pre-print](https://arxiv.org/abs/2412.13559)}
 
-- Scalable Spatiotempora
-l Inference with Biased Scan Attention Transformer Neural Processes.  
+- Scalable Spatiotemporal Inference with Biased Scan Attention Transformer Neural Processes.  
 Daniel Jenson, Jhonathan Navott, Piotr Grynfelder, **Mengyan Zhang**, Makkunda Sharma, Elizaveta Semenova, Seth Flaxman. {[pre-print](https://arxiv.org/pdf/2506.09163?)}
 
 - Optimal disease surveillance with graph-based Active Learning.  

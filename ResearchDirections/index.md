@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Vaccines
-permalink: /vaccines/
+title: Research Directions
+permalink: /ResearchDirections/
 ---
 
 # Research Directions
@@ -35,6 +35,7 @@ Research emphasises how large, pretrained models can be **adaptively fine-tuned 
 If you are interested in the research directions above, please email me (mengyan.zhang@bristol.ac.uk) with [PhD Application] in the subject line and
 - your CV and transcript
 - a short paragraph about your research experience and interests in the email body
+- research proposal 
 - any additional materials to support your application
   
 # PhD Opportunities
